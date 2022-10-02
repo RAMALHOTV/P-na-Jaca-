@@ -1,624 +1,2278 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Camera (01)" tvg-logo="https://distv.net/icones/afazenda.png" group-title="Canais | A Fazenda",A Fazenda - Camera (01)
-http://pe1b.tvpn.eu:8080/flavio/flavio/77
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Camera (02)" tvg-logo="https://distv.net/icones/afazenda.png" group-title="Canais | A Fazenda",A Fazenda - Camera (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/78
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Camera (03)" tvg-logo="https://distv.net/icones/afazenda.png" group-title="Canais | A Fazenda",A Fazenda - Camera (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/79
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Camera (04)" tvg-logo="https://distv.net/icones/afazenda.png" group-title="Canais | A Fazenda",A Fazenda - Camera (04)
-http://pe1b.tvpn.eu:8080/flavio/flavio/80
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda - Camera (05)" tvg-logo="https://distv.net/icones/afazenda.png" group-title="Canais | A Fazenda",A Fazenda - Camera (05)
-http://pe1b.tvpn.eu:8080/flavio/flavio/81
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E" tvg-logo="https://distv.net/icones/ae.png" group-title="Canais | Filmes e Séries",A&E
-http://pe1b.tvpn.eu:8080/flavio/flavio/128
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video (01)" tvg-logo="https://distv.net/icones/primevideo.png" group-title="Canais | Pay-Per-View",Amazon Prime Video (01)
-http://pe1b.tvpn.eu:8080/flavio/flavio/230
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video (02)" tvg-logo="https://distv.net/icones/primevideo.png" group-title="Canais | Pay-Per-View",Amazon Prime Video (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/231
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://distv.net/icones/amc.png" group-title="Canais | Filmes e Séries",AMC
-http://pe1b.tvpn.eu:8080/flavio/flavio/129
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://distv.net/icones/animalplanet.png" group-title="Canais | Documentários",Animal Planet
-http://pe1b.tvpn.eu:8080/flavio/flavio/96
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1" tvg-logo="https://distv.net/icones/arte1.png" group-title="Canais | Documentários",Arte 1
-http://pe1b.tvpn.eu:8080/flavio/flavio/97
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://distv.net/icones/axn.png" group-title="Canais | Filmes e Séries",AXN
-http://pe1b.tvpn.eu:8080/flavio/flavio/130
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV" tvg-logo="https://distv.net/icones/babytv.png" group-title="Canais | Infantil",Baby TV
-http://pe1b.tvpn.eu:8080/flavio/flavio/83
-#EXTINF:-1 tvg-id="" tvg-name="Band Ceará (Band)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Band",Band Ceará (Band)
-http://pe1b.tvpn.eu:8080/flavio/flavio/350
-#EXTINF:-1 tvg-id="" tvg-name="Band Ceará (Band)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Ceara",Band Ceará (Band)
-http://pe1b.tvpn.eu:8080/flavio/flavio/350
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News" tvg-logo="https://distv.net/icones/bandnews.png" group-title="Canais | Notícias",Band News
-http://pe1b.tvpn.eu:8080/flavio/flavio/265
-#EXTINF:-1 tvg-id="bandnatal.br" tvg-name="Band RN (Band)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Band",Band RN (Band)
-http://pe1b.tvpn.eu:8080/flavio/flavio/292
-#EXTINF:-1 tvg-id="bandnatal.br" tvg-name="Band RN (Band)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Natal",Band RN (Band)
-http://pe1b.tvpn.eu:8080/flavio/flavio/292
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-logo="https://distv.net/icones/bandsports.png" group-title="Canais | Sports",Band Sports
-http://pe1b.tvpn.eu:8080/flavio/flavio/31
-#EXTINF:-1 tvg-id="BANDTO" tvg-name="Band (Palmas)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Band",Band (Palmas)
-http://pe1b.tvpn.eu:8080/flavio/flavio/462
-#EXTINF:-1 tvg-id="BANDTO" tvg-name="Band (Palmas)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Palmas",Band (Palmas)
-http://pe1b.tvpn.eu:8080/flavio/flavio/462
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (00)" tvg-logo="https://distv.net/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (00)
-http://pe1b.tvpn.eu:8080/flavio/flavio/64
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (01)" tvg-logo="https://distv.net/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (01)
-http://pe1b.tvpn.eu:8080/flavio/flavio/65
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (02)" tvg-logo="https://distv.net/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/66
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (03)" tvg-logo="https://distv.net/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/67
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (04)" tvg-logo="https://distv.net/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (04)
-http://pe1b.tvpn.eu:8080/flavio/flavio/68
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (05)" tvg-logo="https://distv.net/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (05)
-http://pe1b.tvpn.eu:8080/flavio/flavio/69
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (06)" tvg-logo="https://distv.net/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (06)
-http://pe1b.tvpn.eu:8080/flavio/flavio/70
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (07)" tvg-logo="https://distv.net/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (07)
-http://pe1b.tvpn.eu:8080/flavio/flavio/71
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (08)" tvg-logo="https://distv.net/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (08)
-http://pe1b.tvpn.eu:8080/flavio/flavio/72
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (09)" tvg-logo="https://distv.net/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (09)
-http://pe1b.tvpn.eu:8080/flavio/flavio/73
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (10)" tvg-logo="https://distv.net/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (10)
-http://pe1b.tvpn.eu:8080/flavio/flavio/74
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Camera (11)" tvg-logo="https://distv.net/icones/bbb.png" group-title="Canais | Big Brother Brasil",BBB - Camera (11)
-http://pe1b.tvpn.eu:8080/flavio/flavio/75
-#EXTINF:-1 tvg-id="BISHD" tvg-name="Bis" tvg-logo="https://distv.net/icones/bis.png" group-title="Canais | Entretenimento",Bis
-http://pe1b.tvpn.eu:8080/flavio/flavio/98
-#EXTINF:-1 tvg-id="boavontadetv.br" tvg-name="Boa Vontade TV (Boa Vontade TV)" tvg-logo="https://distv.net/icones/boavontadetv.png" group-title="Canais | Religiosos",Boa Vontade TV (Boa Vontade TV)
-http://pe1b.tvpn.eu:8080/flavio/flavio/382
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang" tvg-logo="https://distv.net/icones/boomerang.png" group-title="Canais | Infantil",Boomerang
-http://pe1b.tvpn.eu:8080/flavio/flavio/84
-#EXTINF:-1 tvg-id="CNLBRSH" tvg-name="Canal Brasil" tvg-logo="https://distv.net/icones/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil
-http://pe1b.tvpn.eu:8080/flavio/flavio/261
-#EXTINF:-1 tvg-id="CANBOI" tvg-name="Canal do Boi" tvg-logo="https://distv.net/icones/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi
-http://pe1b.tvpn.eu:8080/flavio/flavio/384
-#EXTINF:-1 tvg-id="EDUCATI" tvg-name="Canal Educação (TV Pública)" tvg-logo="https://distv.net/icones/cultura.png" group-title="Canais | Abertos",Canal Educação (TV Pública)
-http://pe1b.tvpn.eu:8080/flavio/flavio/418
-#EXTINF:-1 tvg-id="" tvg-name="Canal Saúde" tvg-logo="https://distv.net/icones/canalsaude.png" group-title="Canais | Abertos",Canal Saúde
-http://pe1b.tvpn.eu:8080/flavio/flavio/404
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony" tvg-logo="https://distv.net/icones/sonychannel.png" group-title="Canais | Filmes e Séries",Canal Sony
-http://pe1b.tvpn.eu:8080/flavio/flavio/131
-#EXTINF:-1 tvg-id="CANALM" tvg-name="Canal UM" tvg-logo="https://distv.net/icones/canalum.png" group-title="Canais | Abertos",Canal UM
-http://pe1b.tvpn.eu:8080/flavio/flavio/413
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network" tvg-logo="https://distv.net/icones/cartoonnetwork.png" group-title="Canais | Infantil",Cartoon Network
-http://pe1b.tvpn.eu:8080/flavio/flavio/85
-#EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV" tvg-logo="https://distv.net/icones/cheftv.png" group-title="Canais | Entretenimento",Chef TV
-http://pe1b.tvpn.eu:8080/flavio/flavio/161
-#EXTINF:-1 tvg-id="cinetv.br" tvg-name="Cine Brasil TV (TV Cultura)" tvg-logo="https://distv.net/icones/cinebrasiltv.png" group-title="Canais | Filmes e Séries",Cine Brasil TV (TV Cultura)
-http://pe1b.tvpn.eu:8080/flavio/flavio/387
-#EXTINF:-1 tvg-id="CANALHD" tvg-name="CineCanal" tvg-logo="https://distv.net/icones/cinecanal.png" group-title="Canais | Filmes e Séries",CineCanal
-http://pe1b.tvpn.eu:8080/flavio/flavio/169
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax" tvg-logo="https://distv.net/icones/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax
-http://pe1b.tvpn.eu:8080/flavio/flavio/132
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil" tvg-logo="https://distv.net/icones/cnnbrasil.png" group-title="Canais | Notícias",CNN Brasil
-http://pe1b.tvpn.eu:8080/flavio/flavio/126
-#EXTINF:-1 tvg-id="cnnenespañol.br" tvg-name="CNN Espanhol" tvg-logo="https://distv.net/icones/cnnespanhol.png" group-title="Canais | Notícias",CNN Espanhol
-http://pe1b.tvpn.eu:8080/flavio/flavio/232
-#EXTINF:-1 tvg-id="cnninternational.br" tvg-name="CNN Internacional" tvg-logo="https://distv.net/icones/cnninternacional.png" group-title="Canais | Notícias",CNN Internacional
-http://pe1b.tvpn.eu:8080/flavio/flavio/163
-#EXTINF:-1 tvg-id="COMBATP" tvg-name="Combate" tvg-logo="https://distv.net/icones/combate.png" group-title="Canais | Sports",Combate
-http://pe1b.tvpn.eu:8080/flavio/flavio/32
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central" tvg-logo="https://distv.net/icones/comedycentral.png" group-title="Canais | Entretenimento",Comedy Central
-http://pe1b.tvpn.eu:8080/flavio/flavio/100
-#EXTINF:-1 tvg-id="conmeboltv1.br" tvg-name="Conmebol (01)" tvg-logo="https://distv.net/icones/conmebol.png" group-title="Canais | Pay-Per-View",Conmebol (01)
-http://pe1b.tvpn.eu:8080/flavio/flavio/49
-#EXTINF:-1 tvg-id="conmeboltv2.br" tvg-name="Conmebol (02)" tvg-logo="https://distv.net/icones/conmebol.png" group-title="Canais | Pay-Per-View",Conmebol (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/50
-#EXTINF:-1 tvg-id="conmeboltv3.br" tvg-name="Conmebol (03)" tvg-logo="https://distv.net/icones/conmebol.png" group-title="Canais | Pay-Per-View",Conmebol (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/51
-#EXTINF:-1 tvg-id="conmeboltv4.br" tvg-name="Conmebol (04)" tvg-logo="https://distv.net/icones/conmebol.png" group-title="Canais | Pay-Per-View",Conmebol (04)
-http://pe1b.tvpn.eu:8080/flavio/flavio/52
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste (01)" tvg-logo="https://distv.net/icones/copadonordeste.png" group-title="Canais | Pay-Per-View",Copa do Nordeste (01)
-http://pe1b.tvpn.eu:8080/flavio/flavio/53
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste (02)" tvg-logo="https://distv.net/icones/copadonordeste.png" group-title="Canais | Pay-Per-View",Copa do Nordeste (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/54
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste (03)" tvg-logo="https://distv.net/icones/copadonordeste.png" group-title="Canais | Pay-Per-View",Copa do Nordeste (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/55
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste (04)" tvg-logo="https://distv.net/icones/copadonordeste.png" group-title="Canais | Pay-Per-View",Copa do Nordeste (04)
-http://pe1b.tvpn.eu:8080/flavio/flavio/56
-#EXTINF:-1 tvg-id="curta!.br" tvg-name="Curta!" tvg-logo="https://distv.net/icones/curta.png" group-title="Canais | Documentários",Curta!
-http://pe1b.tvpn.eu:8080/flavio/flavio/99
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (01)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (01)
-http://pe1b.tvpn.eu:8080/flavio/flavio/259
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (02)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/260
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (03)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/175
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (04)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (04)
-http://pe1b.tvpn.eu:8080/flavio/flavio/174
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (05)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (05)
-http://pe1b.tvpn.eu:8080/flavio/flavio/173
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (06)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (06)
-http://pe1b.tvpn.eu:8080/flavio/flavio/172
-#EXTINF:-1 tvg-id="" tvg-name="DAZN (07)" tvg-logo="https://distv.net/icones/dazn.png" group-title="Canais | Pay-Per-View",DAZN (07)
-http://pe1b.tvpn.eu:8080/flavio/flavio/249
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel" tvg-logo="https://distv.net/icones/discoverychannel.png" group-title="Canais | Discovery",Discovery Channel
-http://pe1b.tvpn.eu:8080/flavio/flavio/101
-#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery H & Health" tvg-logo="https://distv.net/icones/discoveryhomehealth.png" group-title="Canais | Discovery",Discovery H & Health
-http://pe1b.tvpn.eu:8080/flavio/flavio/102
-#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="Discovery ID" tvg-logo="https://distv.net/icones/discoveryid.png" group-title="Canais | Discovery",Discovery ID
-http://pe1b.tvpn.eu:8080/flavio/flavio/103
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids" tvg-logo="https://distv.net/icones/discoverykids.png" group-title="Canais | Infantil",Discovery Kids
-http://pe1b.tvpn.eu:8080/flavio/flavio/86
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science" tvg-logo="https://distv.net/icones/discoveryscience.png" group-title="Canais | Discovery",Discovery Science
-http://pe1b.tvpn.eu:8080/flavio/flavio/104
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater" tvg-logo="https://distv.net/icones/discoverytheater.png" group-title="Canais | Discovery",Discovery Theater
-http://pe1b.tvpn.eu:8080/flavio/flavio/105
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo" tvg-logo="https://distv.net/icones/discoveryturbo.png" group-title="Canais | Discovery",Discovery Turbo
-http://pe1b.tvpn.eu:8080/flavio/flavio/106
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World" tvg-logo="https://distv.net/icones/discoveryworld.png" group-title="Canais | Discovery",Discovery World
-http://pe1b.tvpn.eu:8080/flavio/flavio/107
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel" tvg-logo="https://distv.net/icones/disneychannel.png" group-title="Canais | Infantil",Disney Channel
-http://pe1b.tvpn.eu:8080/flavio/flavio/87
-#EXTINF:-1 tvg-id="e!.br" tvg-name="E!" tvg-logo="https://distv.net/icones/e.png" group-title="Canais | Entretenimento",E!
-http://pe1b.tvpn.eu:8080/flavio/flavio/108
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="https://distv.net/icones/espn.png" group-title="Canais | Sports",ESPN
-http://pe1b.tvpn.eu:8080/flavio/flavio/35
-#EXTINF:-1 tvg-id="CBESPN2" tvg-name="ESPN (02)" tvg-logo="https://distv.net/icones/espn2.png" group-title="Canais | Sports",ESPN (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/33
-#EXTINF:-1 tvg-id="CBESPN3" tvg-name="ESPN (03)" tvg-logo="https://distv.net/icones/espn3.png" group-title="Canais | Sports",ESPN (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/34
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN (04)" tvg-logo="https://distv.net/icones/espn4.png" group-title="Canais | Sports",ESPN (04)
-http://pe1b.tvpn.eu:8080/flavio/flavio/37
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra" tvg-logo="https://distv.net/icones/espnextra.png" group-title="Canais | Sports",ESPN Extra
-http://pe1b.tvpn.eu:8080/flavio/flavio/36
-#EXTINF:-1 tvg-id="EURONEW" tvg-name="Euronews" tvg-logo="https://distv.net/icones/euronews.png" group-title="Canais | Abertos",Euronews
-http://pe1b.tvpn.eu:8080/flavio/flavio/388
-#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV" tvg-logo="https://distv.net/icones/fashiontv.png" group-title="Canais | Entretenimento",Fashion TV
-http://pe1b.tvpn.eu:8080/flavio/flavio/166
-#EXTINF:-1 tvg-id="film&arts.br" tvg-name="Film Arts" tvg-logo="https://distv.net/icones/filmeseartes.png" group-title="Canais | Entretenimento",Film Arts
-http://pe1b.tvpn.eu:8080/flavio/flavio/109
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FishTV" tvg-logo="https://distv.net/icones/fishtv.png" group-title="Canais | Entretenimento",FishTV
-http://pe1b.tvpn.eu:8080/flavio/flavio/226
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network" tvg-logo="https://distv.net/icones/foodnetwork.png" group-title="Canais | Entretenimento",Food Network
-http://pe1b.tvpn.eu:8080/flavio/flavio/110
-#EXTINF:-1 tvg-id="foxnewschannel.br" tvg-name="Fox News" tvg-logo="https://distv.net/icones/foxnews.png" group-title="Canais | Notícias",Fox News
-http://pe1b.tvpn.eu:8080/flavio/flavio/164
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports (02)" tvg-logo="https://distv.net/icones/foxsports2.png" group-title="Canais | Sports",Fox Sports (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/38
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX" tvg-logo="https://distv.net/icones/fx.png" group-title="Canais | Filmes e Séries",FX
-http://pe1b.tvpn.eu:8080/flavio/flavio/134
-#EXTINF:-1 tvg-id="nsctvflorianópolis.br" tvg-name="Globo (Florianopolis)" tvg-logo="https://distv.net/icones/globotvnscflorianopolis.png" group-title="Canais | Globo",Globo (Florianopolis)
-http://pe1b.tvpn.eu:8080/flavio/flavio/428
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News" tvg-logo="https://distv.net/icones/globonews.png" group-title="Canais | Notícias",Globo News
-http://pe1b.tvpn.eu:8080/flavio/flavio/229
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob" tvg-logo="https://distv.net/icones/gloob.png" group-title="Canais | Infantil",Gloob
-http://pe1b.tvpn.eu:8080/flavio/flavio/88
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho" tvg-logo="https://distv.net/icones/gloobinho.png" group-title="Canais | Infantil",Gloobinho
-http://pe1b.tvpn.eu:8080/flavio/flavio/89
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT" tvg-logo="https://distv.net/icones/gnt.png" group-title="Canais | Entretenimento",GNT
-http://pe1b.tvpn.eu:8080/flavio/flavio/111
-#EXTINF:-1 tvg-id="h2.br" tvg-name="H2" tvg-logo="https://distv.net/icones/h2.png" group-title="Canais | Documentários",H2
-http://pe1b.tvpn.eu:8080/flavio/flavio/114
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="https://distv.net/icones/hbo.png" group-title="Canais | HBO",HBO
-http://pe1b.tvpn.eu:8080/flavio/flavio/135
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO (02)" tvg-logo="https://distv.net/icones/hbo2.png" group-title="Canais | HBO",HBO (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/136
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family" tvg-logo="https://distv.net/icones/hbofamily.png" group-title="Canais | HBO",HBO Family
-http://pe1b.tvpn.eu:8080/flavio/flavio/137
-#EXTINF:-1 tvg-id="HBMAX" tvg-name="HBO Max (01)" tvg-logo="https://distv.net/icones/hbomax1.png" group-title="Canais | Pay-Per-View",HBO Max (01)
-http://pe1b.tvpn.eu:8080/flavio/flavio/251
-#EXTINF:-1 tvg-id="HBMAX" tvg-name="HBO Max (02)" tvg-logo="https://distv.net/icones/hbomax1.png" group-title="Canais | Pay-Per-View",HBO Max (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/252
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max (03)" tvg-logo="https://distv.net/icones/hbomax1.png" group-title="Canais | Pay-Per-View",HBO Max (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/253
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi" tvg-logo="https://distv.net/icones/hbomundi.png" group-title="Canais | HBO",HBO Mundi
-http://pe1b.tvpn.eu:8080/flavio/flavio/138
-#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus" tvg-logo="https://distv.net/icones/hboplus.png" group-title="Canais | HBO",HBO Plus
-http://pe1b.tvpn.eu:8080/flavio/flavio/139
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop" tvg-logo="https://distv.net/icones/hbopop.png" group-title="Canais | HBO",HBO Pop
-http://pe1b.tvpn.eu:8080/flavio/flavio/140
-#EXTINF:-1 tvg-id="HBOSB" tvg-name="HBO Signature" tvg-logo="https://distv.net/icones/hbosignature.png" group-title="Canais | HBO",HBO Signature
-http://pe1b.tvpn.eu:8080/flavio/flavio/141
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme" tvg-logo="https://distv.net/icones/hboextreme.png" group-title="Canais | HBO",HBO Xtreme
-http://pe1b.tvpn.eu:8080/flavio/flavio/142
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="https://distv.net/icones/hgtv.png" group-title="Canais | Discovery",HGTV
-http://pe1b.tvpn.eu:8080/flavio/flavio/112
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel" tvg-logo="https://distv.net/icones/historychannel.png" group-title="Canais | Documentários",History Channel
-http://pe1b.tvpn.eu:8080/flavio/flavio/113
-#EXTINF:-1 tvg-id="idealtv.br" tvg-name="Ideal TV (TV Mundial)" tvg-logo="https://distv.net/icones/ideal.png" group-title="Canais | Abertos",Ideal TV (TV Mundial)
-http://pe1b.tvpn.eu:8080/flavio/flavio/314
-#EXTINF:-1 tvg-id="intertvcabugi.br" tvg-name="InterTV Cabugi (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",InterTV Cabugi (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/291
-#EXTINF:-1 tvg-id="intertvcabugi.br" tvg-name="InterTV Cabugi (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Natal",InterTV Cabugi (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/291
-#EXTINF:-1 tvg-id="ZYA728" tvg-name="InterTV Grande Minas (Globo)" tvg-logo="https://distv.net/icones/intertvgrandeminas.png" group-title="Canais | Globo",InterTV Grande Minas (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/407
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LifeTime" tvg-logo="https://distv.net/icones/lifetime.png" group-title="Canais | Entretenimento",LifeTime
-http://pe1b.tvpn.eu:8080/flavio/flavio/143
-#EXTINF:-1 tvg-id="" tvg-name="Like" tvg-logo="https://distv.net/icones/like.png" group-title="Canais | Filmes e Séries",Like
-http://pe1b.tvpn.eu:8080/flavio/flavio/176
-#EXTINF:-1 tvg-id="NATUR" tvg-name="Love Nature" tvg-logo="https://distv.net/icones/lovenature.png" group-title="Canais | Documentários",Love Nature
-http://pe1b.tvpn.eu:8080/flavio/flavio/115
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Modo Viagem" tvg-logo="https://distv.net/icones/maisglobosat.png" group-title="Canais | Entretenimento",Modo Viagem
-http://pe1b.tvpn.eu:8080/flavio/flavio/262
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix" tvg-logo="https://distv.net/icones/megapix.png" group-title="Canais | Filmes e Séries",MegaPix
-http://pe1b.tvpn.eu:8080/flavio/flavio/144
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://distv.net/icones/mtv.png" group-title="Canais | Entretenimento",MTV
-http://pe1b.tvpn.eu:8080/flavio/flavio/116
-#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV Live" tvg-logo="https://distv.net/icones/mtvlive.png" group-title="Canais | Entretenimento",MTV Live
-http://pe1b.tvpn.eu:8080/flavio/flavio/117
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow" tvg-logo="https://distv.net/icones/multishow.png" group-title="Canais | Entretenimento",Multishow
-http://pe1b.tvpn.eu:8080/flavio/flavio/118
-#EXTINF:-1 tvg-id="musicbox.br" tvg-name="Music Box" tvg-logo="https://distv.net/icones/musicboxbrasil.png" group-title="Canais | Entretenimento",Music Box
-http://pe1b.tvpn.eu:8080/flavio/flavio/227
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic" tvg-logo="https://distv.net/icones/natgeo.png" group-title="Canais | Documentários",National Geographic
-http://pe1b.tvpn.eu:8080/flavio/flavio/119
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr" tvg-logo="https://distv.net/icones/nickjr.png" group-title="Canais | Infantil",Nick Jr
-http://pe1b.tvpn.eu:8080/flavio/flavio/91
-#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="https://distv.net/icones/nick.png" group-title="Canais | Infantil",Nickelodeon
-http://pe1b.tvpn.eu:8080/flavio/flavio/90
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="https://distv.net/icones/off.png" group-title="Canais | Entretenimento",OFF
-http://pe1b.tvpn.eu:8080/flavio/flavio/121
-#EXTINF:-1 tvg-id="paramountchannel.br" tvg-name="Paramount" tvg-logo="https://distv.net/icones/paramount.png" group-title="Canais | Filmes e Séries",Paramount
-http://pe1b.tvpn.eu:8080/flavio/flavio/145
-#EXTINF:-1 tvg-id="PLSHOP" tvg-name="Polishop TV" tvg-logo="https://distv.net/icones/polishop.png" group-title="Canais | Abertos",Polishop TV
-http://pe1b.tvpn.eu:8080/flavio/flavio/306
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere (02)" tvg-logo="https://distv.net/icones/premiere2.png" group-title="Canais | Premiere",Premiere (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/40
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere (03)" tvg-logo="https://distv.net/icones/premiere3.png" group-title="Canais | Premiere",Premiere (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/41
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere (04)" tvg-logo="https://distv.net/icones/premiere4.png" group-title="Canais | Premiere",Premiere (04)
-http://pe1b.tvpn.eu:8080/flavio/flavio/42
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere (05)" tvg-logo="https://distv.net/icones/premiere5.png" group-title="Canais | Premiere",Premiere (05)
-http://pe1b.tvpn.eu:8080/flavio/flavio/43
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere (06)" tvg-logo="https://distv.net/icones/premiere6.png" group-title="Canais | Premiere",Premiere (06)
-http://pe1b.tvpn.eu:8080/flavio/flavio/44
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere (07)" tvg-logo="https://distv.net/icones/premiere7.png" group-title="Canais | Premiere",Premiere (07)
-http://pe1b.tvpn.eu:8080/flavio/flavio/45
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes" tvg-logo="https://distv.net/icones/premiereclubes.png" group-title="Canais | Premiere",Premiere Clubes
-http://pe1b.tvpn.eu:8080/flavio/flavio/39
-#EXTINF:-1 tvg-id="PRMBOXB" tvg-name="Prime Box Brazil" tvg-logo="https://distv.net/icones/primeboxbrazil.png" group-title="Canais | Entretenimento",Prime Box Brazil
-http://pe1b.tvpn.eu:8080/flavio/flavio/454
-#EXTINF:-1 tvg-id="rbstvriogrande.br" tvg-name="RBS TV RS (Globo)" tvg-logo="https://distv.net/icones/globorbs.png" group-title="Canais | Globo",RBS TV RS (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/432
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News" tvg-logo="https://distv.net/icones/recordnews.png" group-title="Canais | Notícias",Record News
-http://pe1b.tvpn.eu:8080/flavio/flavio/258
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record TV" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",Record TV
-http://pe1b.tvpn.eu:8080/flavio/flavio/309
-#EXTINF:-1 tvg-id="recordtvitapoan.br" tvg-name="Record TV Itapoan (Record TV)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",Record TV Itapoan (Record TV)
-http://pe1b.tvpn.eu:8080/flavio/flavio/335
-#EXTINF:-1 tvg-id="recordtvitapoan.br" tvg-name="Record TV Itapoan (Record TV)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | Bahia",Record TV Itapoan (Record TV)
-http://pe1b.tvpn.eu:8080/flavio/flavio/335
-#EXTINF:-1 tvg-id="recordtvbahia.br" tvg-name="RecordTV (Bahia)" tvg-logo="https://distv.net/icones/recordbahia.png" group-title="Canais | RecordTV",RecordTV (Bahia)
-http://pe1b.tvpn.eu:8080/flavio/flavio/442
-#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="RecordTV (Belém)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Belém)
-http://pe1b.tvpn.eu:8080/flavio/flavio/443
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RecordTV (Brasília)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Brasília)
-http://pe1b.tvpn.eu:8080/flavio/flavio/444
-#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="RecordTV (Goiás)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Goiás)
-http://pe1b.tvpn.eu:8080/flavio/flavio/445
-#EXTINF:-1 tvg-id="" tvg-name="RecordTV (Manaus)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Manaus)
-http://pe1b.tvpn.eu:8080/flavio/flavio/446
-#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RecordTV (Minas)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Minas)
-http://pe1b.tvpn.eu:8080/flavio/flavio/447
-#EXTINF:-1 tvg-id="recordtvrio.br" tvg-name="RecordTV (Rio de Janeiro)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Rio de Janeiro)
-http://pe1b.tvpn.eu:8080/flavio/flavio/449
-#EXTINF:-1 tvg-id="recordtvrs.br" tvg-name="RecordTV (Rio Grande do Sul)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Rio Grande do Sul)
-http://pe1b.tvpn.eu:8080/flavio/flavio/450
-#EXTINF:-1 tvg-id="recordtvsãopaulo.br" tvg-name="RecordTV (São Paulo)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (São Paulo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/451
-#EXTINF:-1 tvg-id="recordtvtocantins.br" tvg-name="RecordTV (Palmas)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",RecordTV (Palmas)
-http://pe1b.tvpn.eu:8080/flavio/flavio/463
-#EXTINF:-1 tvg-id="recordtvtocantins.br" tvg-name="RecordTV (Palmas)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | Palmas",RecordTV (Palmas)
-http://pe1b.tvpn.eu:8080/flavio/flavio/463
-#EXTINF:-1 tvg-id="redeamazônicamanaus.br" tvg-name="Rede Amazonica (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",Rede Amazonica (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/433
-#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="Rede Anhanguera (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",Rede Anhanguera (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/436
-#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="Rede Anhanguera (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Palmas",Rede Anhanguera (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/436
-#EXTINF:-1 tvg-id="cnt.br" tvg-name="Rede CNT" tvg-logo="https://distv.net/icones/redecnt.png" group-title="Canais | Abertos",Rede CNT
-http://pe1b.tvpn.eu:8080/flavio/flavio/459
-#EXTINF:-1 tvg-id="RFAM" tvg-name="Rede Família" tvg-logo="https://distv.net/icones/redefamilia.png" group-title="Canais | Religiosos",Rede Família
-http://pe1b.tvpn.eu:8080/flavio/flavio/392
-#EXTINF:-1 tvg-id="redegênesis.br" tvg-name="Rede Genesis" tvg-logo="https://distv.net/icones/redegenesis.png" group-title="Canais | Religiosos",Rede Genesis
-http://pe1b.tvpn.eu:8080/flavio/flavio/393
-#EXTINF:-1 tvg-id="RG" tvg-name="Rede Gospel" tvg-logo="https://distv.net/icones/redegospel.png" group-title="Canais | Religiosos",Rede Gospel
-http://pe1b.tvpn.eu:8080/flavio/flavio/394
-#EXTINF:-1 tvg-id="RSUPER" tvg-name="Rede Super" tvg-logo="https://distv.net/icones/redesuper.png" group-title="Canais | Abertos",Rede Super
-http://pe1b.tvpn.eu:8080/flavio/flavio/397
-#EXTINF:-1 tvg-id="redeséculo21.br" tvg-name="Rede Século 21" tvg-logo="https://distv.net/icones/redeseculo21.png" group-title="Canais | Religiosos",Rede Século 21
-http://pe1b.tvpn.eu:8080/flavio/flavio/396
-#EXTINF:-1 tvg-id="RV" tvg-name="Rede Vida (Rede Vida)" tvg-logo="https://distv.net/icones/redevida.png" group-title="Canais | Religiosos",Rede Vida (Rede Vida)
-http://pe1b.tvpn.eu:8080/flavio/flavio/369
-#EXTINF:-1 tvg-id="ZYB405" tvg-name="RIC TV Maringá (Record TV)" tvg-logo="https://distv.net/icones/rictv.png" group-title="Canais | RecordTV",RIC TV Maringá (Record TV)
-http://pe1b.tvpn.eu:8080/flavio/flavio/370
-#EXTINF:-1 tvg-id="ZYB405" tvg-name="RIC TV Maringá (Record TV)" tvg-logo="https://distv.net/icones/rictv.png" group-title="Canais | Parana",RIC TV Maringá (Record TV)
-http://pe1b.tvpn.eu:8080/flavio/flavio/370
-#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV (Rede)" tvg-logo="https://distv.net/icones/rittv.png" group-title="Canais | Abertos",RIT TV (Rede)
-http://pe1b.tvpn.eu:8080/flavio/flavio/280
-#EXTINF:-1 tvg-id="GLRPCHD" tvg-name="RPC Curitiba (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",RPC Curitiba (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/434
-#EXTINF:-1 tvg-id="GLRPCHD" tvg-name="RPC Curitiba (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Parana",RPC Curitiba (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/434
-#EXTINF:-1 tvg-id="rpcmaringá.br" tvg-name="RPC Maringá (Globo)" tvg-logo="https://distv.net/icones/rpcglobo.png" group-title="Canais | Globo",RPC Maringá (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/372
-#EXTINF:-1 tvg-id="rpcmaringá.br" tvg-name="RPC Maringá (Globo)" tvg-logo="https://distv.net/icones/rpcglobo.png" group-title="Canais | Parana",RPC Maringá (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/372
-#EXTINF:-1 tvg-id="sbtsãopaulo.br" tvg-name="SBT (São Paulo)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | SBT",SBT (São Paulo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/457
-#EXTINF:-1 tvg-id="sbttocantins.br" tvg-name="SBT (Palmas)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | SBT",SBT (Palmas)
-http://pe1b.tvpn.eu:8080/flavio/flavio/461
-#EXTINF:-1 tvg-id="sbttocantins.br" tvg-name="SBT (Palmas)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | Palmas",SBT (Palmas)
-http://pe1b.tvpn.eu:8080/flavio/flavio/461
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (01)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (01)
-http://pe1b.tvpn.eu:8080/flavio/flavio/20
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (02)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/21
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (03)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/22
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (04)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (04)
-http://pe1b.tvpn.eu:8080/flavio/flavio/23
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (05)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (05)
-http://pe1b.tvpn.eu:8080/flavio/flavio/24
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (06)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (06)
-http://pe1b.tvpn.eu:8080/flavio/flavio/25
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (07)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (07)
-http://pe1b.tvpn.eu:8080/flavio/flavio/26
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (08)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (08)
-http://pe1b.tvpn.eu:8080/flavio/flavio/27
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (09)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (09)
-http://pe1b.tvpn.eu:8080/flavio/flavio/28
-#EXTINF:-1 tvg-id="CINESKY" tvg-name="Sky Cinema (10)" tvg-logo="https://distv.net/icones/skycinema.png" group-title="Canais | Pipoca & Sky & Play",Sky Cinema (10)
-http://pe1b.tvpn.eu:8080/flavio/flavio/29
-#EXTINF:-1 tvg-id="" tvg-name="SKY Play (01)" tvg-logo="https://distv.net/icones/skyplay.png" group-title="Canais | Pipoca & Sky & Play",SKY Play (01)
-http://pe1b.tvpn.eu:8080/flavio/flavio/238
-#EXTINF:-1 tvg-id="" tvg-name="SKY Play (02)" tvg-logo="https://distv.net/icones/skyplay.png" group-title="Canais | Pipoca & Sky & Play",SKY Play (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/239
-#EXTINF:-1 tvg-id="" tvg-name="SKY Play (03)" tvg-logo="https://distv.net/icones/skyplay.png" group-title="Canais | Pipoca & Sky & Play",SKY Play (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/240
-#EXTINF:-1 tvg-id="" tvg-name="SKY Play (04)" tvg-logo="https://distv.net/icones/skyplay.png" group-title="Canais | Pipoca & Sky & Play",SKY Play (04)
-http://pe1b.tvpn.eu:8080/flavio/flavio/241
-#EXTINF:-1 tvg-id="" tvg-name="SKY Play (05)" tvg-logo="https://distv.net/icones/skyplay.png" group-title="Canais | Pipoca & Sky & Play",SKY Play (05)
-http://pe1b.tvpn.eu:8080/flavio/flavio/242
-#EXTINF:-1 tvg-id="" tvg-name="SKY Play (06)" tvg-logo="https://distv.net/icones/skyplay.png" group-title="Canais | Pipoca & Sky & Play",SKY Play (06)
-http://pe1b.tvpn.eu:8080/flavio/flavio/243
-#EXTINF:-1 tvg-id="" tvg-name="SKY Play (07)" tvg-logo="https://distv.net/icones/skyplay.png" group-title="Canais | Pipoca & Sky & Play",SKY Play (07)
-http://pe1b.tvpn.eu:8080/flavio/flavio/244
-#EXTINF:-1 tvg-id="" tvg-name="SKY Play (08)" tvg-logo="https://distv.net/icones/skyplay.png" group-title="Canais | Pipoca & Sky & Play",SKY Play (08)
-http://pe1b.tvpn.eu:8080/flavio/flavio/245
-#EXTINF:-1 tvg-id="" tvg-name="SKY Play (09)" tvg-logo="https://distv.net/icones/skyplay.png" group-title="Canais | Pipoca & Sky & Play",SKY Play (09)
-http://pe1b.tvpn.eu:8080/flavio/flavio/246
-#EXTINF:-1 tvg-id="" tvg-name="SKY Play (10)" tvg-logo="https://distv.net/icones/skyplay.png" group-title="Canais | Pipoca & Sky & Play",SKY Play (10)
-http://pe1b.tvpn.eu:8080/flavio/flavio/247
-#EXTINF:-1 tvg-id="" tvg-name="SKY Play (11)" tvg-logo="https://distv.net/icones/skyplay.png" group-title="Canais | Pipoca & Sky & Play",SKY Play (11)
-http://pe1b.tvpn.eu:8080/flavio/flavio/248
-#EXTINF:-1 tvg-id="canalsmithsonian.br" tvg-name="Smithsonian" tvg-logo="https://distv.net/icones/smithsonian.png" group-title="Canais | Entretenimento",Smithsonian
-http://pe1b.tvpn.eu:8080/flavio/flavio/122
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space" tvg-logo="https://distv.net/icones/space.png" group-title="Canais | Filmes e Séries",Space
-http://pe1b.tvpn.eu:8080/flavio/flavio/146
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SportTV" tvg-logo="https://distv.net/icones/sportv.png" group-title="Canais | Sports",SportTV
-http://pe1b.tvpn.eu:8080/flavio/flavio/46
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SportTV (02)" tvg-logo="https://distv.net/icones/sportv2.png" group-title="Canais | Sports",SportTV (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/47
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SportTV (03)" tvg-logo="https://distv.net/icones/sportv3.png" group-title="Canais | Sports",SportTV (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/48
-#EXTINF:-1 tvg-id="starchannel.br" tvg-name="Star Channel" tvg-logo="https://distv.net/icones/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel
-http://pe1b.tvpn.eu:8080/flavio/flavio/228
-#EXTINF:-1 tvg-id="" tvg-name="Star+" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+
-http://pe1b.tvpn.eu:8080/flavio/flavio/178
-#EXTINF:-1 tvg-id="" tvg-name="Star+ (02)" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/179
-#EXTINF:-1 tvg-id="" tvg-name="Star+ (03)" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/237
-#EXTINF:-1 tvg-id="" tvg-name="Star+ (04)" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (04)
-http://pe1b.tvpn.eu:8080/flavio/flavio/236
-#EXTINF:-1 tvg-id="" tvg-name="Star+ (05)" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (05)
-http://pe1b.tvpn.eu:8080/flavio/flavio/180
-#EXTINF:-1 tvg-id="" tvg-name="Star+ (06)" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (06)
-http://pe1b.tvpn.eu:8080/flavio/flavio/181
-#EXTINF:-1 tvg-id="" tvg-name="Star+ (07)" tvg-logo="https://distv.net/icones/starplus.png" group-title="Canais | Pay-Per-View",Star+ (07)
-http://pe1b.tvpn.eu:8080/flavio/flavio/182
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal" tvg-logo="https://distv.net/icones/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal
-http://pe1b.tvpn.eu:8080/flavio/flavio/147
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SyFy" tvg-logo="https://distv.net/icones/syfy.png" group-title="Canais | Filmes e Séries",SyFy
-http://pe1b.tvpn.eu:8080/flavio/flavio/148
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS" tvg-logo="https://distv.net/icones/tbs.png" group-title="Canais | Filmes e Séries",TBS
-http://pe1b.tvpn.eu:8080/flavio/flavio/149
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://distv.net/icones/tcm.png" group-title="Canais | Filmes e Séries",TCM
-http://pe1b.tvpn.eu:8080/flavio/flavio/177
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action" tvg-logo="https://distv.net/icones/tcaction.png" group-title="Canais | Telecine",Telecine Action
-http://pe1b.tvpn.eu:8080/flavio/flavio/150
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult" tvg-logo="https://distv.net/icones/tccult.png" group-title="Canais | Telecine",Telecine Cult
-http://pe1b.tvpn.eu:8080/flavio/flavio/151
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun" tvg-logo="https://distv.net/icones/tcfun.png" group-title="Canais | Telecine",Telecine Fun
-http://pe1b.tvpn.eu:8080/flavio/flavio/152
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://distv.net/icones/tcpipoca.png" group-title="Canais | Telecine",Telecine Pipoca
-http://pe1b.tvpn.eu:8080/flavio/flavio/153
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium" tvg-logo="https://distv.net/icones/tcpremium.png" group-title="Canais | Telecine",Telecine Premium
-http://pe1b.tvpn.eu:8080/flavio/flavio/154
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch" tvg-logo="https://distv.net/icones/tctouch.png" group-title="Canais | Telecine",Telecine Touch
-http://pe1b.tvpn.eu:8080/flavio/flavio/155
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC" tvg-logo="https://distv.net/icones/tlc.png" group-title="Canais | Entretenimento",TLC
-http://pe1b.tvpn.eu:8080/flavio/flavio/156
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="https://distv.net/icones/tnt.png" group-title="Canais | Filmes e Séries",TNT
-http://pe1b.tvpn.eu:8080/flavio/flavio/157
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series" tvg-logo="https://distv.net/icones/tntseries.png" group-title="Canais | Filmes e Séries",TNT Series
-http://pe1b.tvpn.eu:8080/flavio/flavio/158
-#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="TNT Sports (01)" tvg-logo="https://distv.net/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (01)
-http://pe1b.tvpn.eu:8080/flavio/flavio/57
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (02)" tvg-logo="https://distv.net/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/58
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (03)" tvg-logo="https://distv.net/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (03)
-http://pe1b.tvpn.eu:8080/flavio/flavio/59
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (04)" tvg-logo="https://distv.net/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (04)
-http://pe1b.tvpn.eu:8080/flavio/flavio/60
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports (05)" tvg-logo="https://distv.net/icones/tntsports.png" group-title="Canais | Pay-Per-View",TNT Sports (05)
-http://pe1b.tvpn.eu:8080/flavio/flavio/171
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast" tvg-logo="https://distv.net/icones/tooncast.png" group-title="Canais | Infantil",Tooncast
-http://pe1b.tvpn.eu:8080/flavio/flavio/92
-#EXTINF:-1 tvg-id="travelbox.br" tvg-name="TravelBox Brazil" tvg-logo="https://distv.net/icones/travelboxbrazil.png" group-title="Canais | Entretenimento",TravelBox Brazil
-http://pe1b.tvpn.eu:8080/flavio/flavio/167
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="Tru TV" tvg-logo="https://distv.net/icones/trutv.png" group-title="Canais | Entretenimento",Tru TV
-http://pe1b.tvpn.eu:8080/flavio/flavio/162
-#EXTINF:-1 tvg-id="ARGO" tvg-name="TV Agro Canal" tvg-logo="https://distv.net/icones/agrocanal.png" group-title="Canais | Abertos",TV Agro Canal
-http://pe1b.tvpn.eu:8080/flavio/flavio/380
-#EXTINF:-1 tvg-id="APAR" tvg-name="TV Aparecida (Rede)" tvg-logo="https://distv.net/icones/tvaparecida.png" group-title="Canais | Religiosos",TV Aparecida (Rede)
-http://pe1b.tvpn.eu:8080/flavio/flavio/377
-#EXTINF:-1 tvg-id="tvarapuan.br" tvg-name="TV Arapuan (Rede TV!)" tvg-logo="https://distv.net/icones/tvarapuan.png" group-title="Canais | Paraiba",TV Arapuan (Rede TV!)
-http://pe1b.tvpn.eu:8080/flavio/flavio/318
-#EXTINF:-1 tvg-id="SBT" tvg-name="TV Aratu (SBT)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | SBT",TV Aratu (SBT)
-http://pe1b.tvpn.eu:8080/flavio/flavio/334
-#EXTINF:-1 tvg-id="SBT" tvg-name="TV Aratu (SBT)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | Bahia",TV Aratu (SBT)
-http://pe1b.tvpn.eu:8080/flavio/flavio/334
-#EXTINF:-1 tvg-id="ZYB305" tvg-name="TV Asa Branca (Globo)" tvg-logo="https://distv.net/icones/tvasabranca.png" group-title="Canais | Globo",TV Asa Branca (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/423
-#EXTINF:-1 tvg-id="ZYB305" tvg-name="TV Asa Branca (Globo)" tvg-logo="https://distv.net/icones/tvasabranca.png" group-title="Canais | Pernambuco",TV Asa Branca (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/423
-#EXTINF:-1 tvg-id="RURALA" tvg-name="TV Assembleia Legislativa (TVAL)" tvg-logo="https://distv.net/icones/tval.png" group-title="Canais | Abertos",TV Assembleia Legislativa (TVAL)
-http://pe1b.tvpn.eu:8080/flavio/flavio/386
-#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="TV Bahia (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Bahia (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/437
-#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="TV Bahia (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Bahia",TV Bahia (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/437
-#EXTINF:-1 tvg-id="bandsãopaulo.br" tvg-name="TV Band (São Paulo)" tvg-logo="https://distv.net/icones/band.png" group-title="Canais | Band",TV Band (São Paulo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/452
-#EXTINF:-1 tvg-id="TVEB2" tvg-name="TV Brasil (02)" tvg-logo="https://distv.net/icones/tvbrasil.png" group-title="Canais | Abertos",TV Brasil (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/399
-#EXTINF:-1 tvg-id="tvcabobranco.br" tvg-name="TV Cabo Branco (Globo)" tvg-logo="https://distv.net/icones/tvcabobranco.png" group-title="Canais | Globo",TV Cabo Branco (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/319
-#EXTINF:-1 tvg-id="tvcabobranco.br" tvg-name="TV Cabo Branco (Globo)" tvg-logo="https://distv.net/icones/tvcabobranco.png" group-title="Canais | Paraiba",TV Cabo Branco (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/319
-#EXTINF:-1 tvg-id="" tvg-name="TV Cachoeira (TV Novo Tempo)" tvg-logo="https://distv.net/icones/tvcachoeira.png" group-title="Canais | Religiosos",TV Cachoeira (TV Novo Tempo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/324
-#EXTINF:-1 tvg-id="" tvg-name="TV Café com Leitte" tvg-logo="https://distv.net/icones/tvcafecomleite.png" group-title="Canais | Ceara",TV Café com Leitte
-http://pe1b.tvpn.eu:8080/flavio/flavio/353
-#EXTINF:-1 tvg-id="" tvg-name="TV Caiuá (RedeTV! Mais)" tvg-logo="https://distv.net/icones/tvcaiua.png" group-title="Canais | Parana",TV Caiuá (RedeTV! Mais)
-http://pe1b.tvpn.eu:8080/flavio/flavio/375
-#EXTINF:-1 tvg-id="cançãonova.br" tvg-name="TV Canção Nova (Rede)" tvg-logo="https://distv.net/icones/cancaonova.png" group-title="Canais | Abertos",TV Canção Nova (Rede)
-http://pe1b.tvpn.eu:8080/flavio/flavio/293
-#EXTINF:-1 tvg-id="tvceará.br" tvg-name="TV Ceará" tvg-logo="https://distv.net/icones/tvceara.png" group-title="Canais | Ceara",TV Ceará
-http://pe1b.tvpn.eu:8080/flavio/flavio/358
-#EXTINF:-1 tvg-id="ZYA427" tvg-name="TV Cidade (Record TV)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | RecordTV",TV Cidade (Record TV)
-http://pe1b.tvpn.eu:8080/flavio/flavio/351
-#EXTINF:-1 tvg-id="ZYA427" tvg-name="TV Cidade (Record TV)" tvg-logo="https://distv.net/icones/record.png" group-title="Canais | Ceara",TV Cidade (Record TV)
-http://pe1b.tvpn.eu:8080/flavio/flavio/351
-#EXTINF:-1 tvg-id="tvcorreio.br" tvg-name="TV Correio (Record TV)" tvg-logo="https://distv.net/icones/tvcorreio.png" group-title="Canais | RecordTV",TV Correio (Record TV)
-http://pe1b.tvpn.eu:8080/flavio/flavio/321
-#EXTINF:-1 tvg-id="tvcorreio.br" tvg-name="TV Correio (Record TV)" tvg-logo="https://distv.net/icones/tvcorreio.png" group-title="Canais | Paraiba",TV Correio (Record TV)
-http://pe1b.tvpn.eu:8080/flavio/flavio/321
-#EXTINF:-1 tvg-id="CULTURA" tvg-name="TV Cultura" tvg-logo="https://distv.net/icones/cultura.png" group-title="Canais | Abertos",TV Cultura
-http://pe1b.tvpn.eu:8080/flavio/flavio/289
-#EXTINF:-1 tvg-id="tvcâmara.br" tvg-name="TV Câmara (TV Câmara)" tvg-logo="https://distv.net/icones/tvcamera.png" group-title="Canais | Abertos",TV Câmara (TV Câmara)
-http://pe1b.tvpn.eu:8080/flavio/flavio/320
-#EXTINF:-1 tvg-id="tvdiário.br" tvg-name="TV Diário (TV Diário)" tvg-logo="https://distv.net/icones/tvdiario.png" group-title="Canais | Ceara",TV Diário (TV Diário)
-http://pe1b.tvpn.eu:8080/flavio/flavio/352
-#EXTINF:-1 tvg-id="TVEVCBA" tvg-name="TV Evangelizar" tvg-logo="https://distv.net/icones/tvevangelizar.png" group-title="Canais | Abertos",TV Evangelizar
-http://pe1b.tvpn.eu:8080/flavio/flavio/304
-#EXTINF:-1 tvg-id="FUTRA" tvg-name="TV Futura" tvg-logo="https://distv.net/icones/futura.png" group-title="Canais | Abertos",TV Futura
-http://pe1b.tvpn.eu:8080/flavio/flavio/294
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta (Globo)" tvg-logo="https://distv.net/icones/gazeta.png" group-title="Canais | Globo",TV Gazeta (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/424
-#EXTINF:-1 tvg-id="GAZETAH" tvg-name="TV Gazeta Vitória (Globo)" tvg-logo="https://distv.net/icones/gazeta.png" group-title="Canais | Globo",TV Gazeta Vitória (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/425
-#EXTINF:-1 tvg-id="GLBBRHD" tvg-name="TV Globo (Brasília)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Globo (Brasília)
-http://pe1b.tvpn.eu:8080/flavio/flavio/427
-#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="TV Globo (Minas)" tvg-logo="https://distv.net/icones/globominas.png" group-title="Canais | Globo",TV Globo (Minas)
-http://pe1b.tvpn.eu:8080/flavio/flavio/429
-#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="TV Globo Nordeste (Globo)" tvg-logo="https://distv.net/icones/globonordeste.png" group-title="Canais | Pernambuco",TV Globo Nordeste (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/272
-#EXTINF:-1 tvg-id="GLBRJ" tvg-name="TV Globo (Rio de Janeiro)" tvg-logo="https://distv.net/icones/globorj.png" group-title="Canais | Globo",TV Globo (Rio de Janeiro)
-http://pe1b.tvpn.eu:8080/flavio/flavio/431
-#EXTINF:-1 tvg-id="globonatal.br" tvg-name="TV Globo (Rio Grande do Norte)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Globo (Rio Grande do Norte)
-http://pe1b.tvpn.eu:8080/flavio/flavio/430
-#EXTINF:-1 tvg-id="globonatal.br" tvg-name="TV Globo (Rio Grande do Norte)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Natal",TV Globo (Rio Grande do Norte)
-http://pe1b.tvpn.eu:8080/flavio/flavio/430
-#EXTINF:-1 tvg-id="globosãopaulo.br" tvg-name="TV Globo (São Paulo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Globo (São Paulo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/435
-#EXTINF:-1 tvg-id="" tvg-name="TV Guararapes (RecordTV)" tvg-logo="https://distv.net/icones/tvguararapes.png" group-title="Canais | Pernambuco",TV Guararapes (RecordTV)
-http://pe1b.tvpn.eu:8080/flavio/flavio/278
-#EXTINF:-1 tvg-id="SBTFORT" tvg-name="TV Jangadeiro (SBT)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | SBT",TV Jangadeiro (SBT)
-http://pe1b.tvpn.eu:8080/flavio/flavio/354
-#EXTINF:-1 tvg-id="SBTFORT" tvg-name="TV Jangadeiro (SBT)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | Ceara",TV Jangadeiro (SBT)
-http://pe1b.tvpn.eu:8080/flavio/flavio/354
-#EXTINF:-1 tvg-id="tvjornal.br" tvg-name="TV Jornal (SBT Nordeste)" tvg-logo="https://distv.net/icones/tvjornal.png" group-title="Canais | Pernambuco",TV Jornal (SBT Nordeste)
-http://pe1b.tvpn.eu:8080/flavio/flavio/266
-#EXTINF:-1 tvg-id="" tvg-name="TV Jovem Pan News" tvg-logo="https://distv.net/icones/jovempannews.png" group-title="Canais | Notícias",TV Jovem Pan News
-http://pe1b.tvpn.eu:8080/flavio/flavio/233
-#EXTINF:-1 tvg-id="globobelémliberal.br" tvg-name="TV Liberal Belém (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Liberal Belém (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/438
-#EXTINF:-1 tvg-id="tvmanaira.br" tvg-name="TV Manaíra (Band)" tvg-logo="https://distv.net/icones/tvmanairaband.png" group-title="Canais | Band",TV Manaíra (Band)
-http://pe1b.tvpn.eu:8080/flavio/flavio/322
-#EXTINF:-1 tvg-id="tvmanaira.br" tvg-name="TV Manaíra (Band)" tvg-logo="https://distv.net/icones/tvmanairaband.png" group-title="Canais | Paraiba",TV Manaíra (Band)
-http://pe1b.tvpn.eu:8080/flavio/flavio/322
-#EXTINF:-1 tvg-id="" tvg-name="TV Miramar (TV Cultura)" tvg-logo="https://distv.net/icones/tvmiramar.png" group-title="Canais | Paraiba",TV Miramar (TV Cultura)
-http://pe1b.tvpn.eu:8080/flavio/flavio/323
-#EXTINF:-1 tvg-id="tvmirantesãoluis.br" tvg-name="TV Mirante São Luís (Globo)" tvg-logo="https://distv.net/icones/globotvmirante.png" group-title="Canais | Globo",TV Mirante São Luís (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/439
-#EXTINF:-1 tvg-id="ZYA942H" tvg-name="TV Morena (Globo)" tvg-logo="https://distv.net/icones/tvmorena.png" group-title="Canais | Globo",TV Morena (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/426
-#EXTINF:-1 tvg-id="" tvg-name="TV Nova (TV Cultura)" tvg-logo="https://distv.net/icones/tvnova.png" group-title="Canais | Pernambuco",TV Nova (TV Cultura)
-http://pe1b.tvpn.eu:8080/flavio/flavio/271
-#EXTINF:-1 tvg-id="" tvg-name="TV Pernambuco (TV Cultura/TV Brasil)" tvg-logo="https://distv.net/icones/tvpe.png" group-title="Canais | Abertos",TV Pernambuco (TV Cultura/TV Brasil)
-http://pe1b.tvpn.eu:8080/flavio/flavio/276
-#EXTINF:-1 tvg-id="tvpontanegra.br" tvg-name="TV Ponta Negra (SBT)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | SBT",TV Ponta Negra (SBT)
-http://pe1b.tvpn.eu:8080/flavio/flavio/311
-#EXTINF:-1 tvg-id="tvpontanegra.br" tvg-name="TV Ponta Negra (SBT)" tvg-logo="https://distv.net/icones/sbt.png" group-title="Canais | Natal",TV Ponta Negra (SBT)
-http://pe1b.tvpn.eu:8080/flavio/flavio/311
-#EXTINF:-1 tvg-id="tvrátimbum!.br" tvg-name="TV Ra Tim Bum" tvg-logo="https://distv.net/icones/tvratimbum.png" group-title="Canais | Infantil",TV Ra Tim Bum
-http://pe1b.tvpn.eu:8080/flavio/flavio/93
-#EXTINF:-1 tvg-id="ZYA302" tvg-name="TV Santa Cruz (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Santa Cruz (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/409
-#EXTINF:-1 tvg-id="ZYA302" tvg-name="TV Santa Cruz (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Bahia",TV Santa Cruz (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/409
-#EXTINF:-1 tvg-id="SHPT" tvg-name="TV Shoptime" tvg-logo="https://distv.net/icones/shoptime.png" group-title="Canais | Abertos",TV Shoptime
-http://pe1b.tvpn.eu:8080/flavio/flavio/308
-#EXTINF:-1 tvg-id="SUBAEHD" tvg-name="TV Subaé (Globo)" tvg-logo="https://distv.net/icones/tvsubae.png" group-title="Canais | Globo",TV Subaé (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/410
-#EXTINF:-1 tvg-id="SUBAEHD" tvg-name="TV Subaé (Globo)" tvg-logo="https://distv.net/icones/tvsubae.png" group-title="Canais | Bahia",TV Subaé (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/410
-#EXTINF:-1 tvg-id="SUDOEHD" tvg-name="TV Sudoeste (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Globo",TV Sudoeste (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/411
-#EXTINF:-1 tvg-id="SUDOEHD" tvg-name="TV Sudoeste (Globo)" tvg-logo="https://distv.net/icones/globo.png" group-title="Canais | Bahia",TV Sudoeste (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/411
-#EXTINF:-1 tvg-id="tvtambaú.br" tvg-name="TV Tambaú (SBT)" tvg-logo="https://distv.net/icones/tvtambau.png" group-title="Canais | SBT",TV Tambaú (SBT)
-http://pe1b.tvpn.eu:8080/flavio/flavio/326
-#EXTINF:-1 tvg-id="tvtambaú.br" tvg-name="TV Tambaú (SBT)" tvg-logo="https://distv.net/icones/tvtambau.png" group-title="Canais | Paraiba",TV Tambaú (SBT)
-http://pe1b.tvpn.eu:8080/flavio/flavio/326
-#EXTINF:-1 tvg-id="ZYB397" tvg-name="TV Tarobá Cascavel (Band)" tvg-logo="https://distv.net/icones/tvtaroba.png" group-title="Canais | Band",TV Tarobá Cascavel (Band)
-http://pe1b.tvpn.eu:8080/flavio/flavio/373
-#EXTINF:-1 tvg-id="ZYB397" tvg-name="TV Tarobá Cascavel (Band)" tvg-logo="https://distv.net/icones/tvtaroba.png" group-title="Canais | Parana",TV Tarobá Cascavel (Band)
-http://pe1b.tvpn.eu:8080/flavio/flavio/373
-#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TV Terraviva" tvg-logo="https://distv.net/icones/terraviva.png" group-title="Canais | Abertos",TV Terraviva
-http://pe1b.tvpn.eu:8080/flavio/flavio/298
-#EXTINF:-1 tvg-id="GLBTRIB" tvg-name="TV Tribuna (Bandeirantes)" tvg-logo="https://distv.net/icones/tvtribuna.png" group-title="Canais | Pernambuco",TV Tribuna (Bandeirantes)
-http://pe1b.tvpn.eu:8080/flavio/flavio/267
-#EXTINF:-1 tvg-id="tvtropical.br" tvg-name="TV Tropical (Record TV)" tvg-logo="https://distv.net/icones/tvtropical.png" group-title="Canais | RecordTV",TV Tropical (Record TV)
-http://pe1b.tvpn.eu:8080/flavio/flavio/302
-#EXTINF:-1 tvg-id="tvtropical.br" tvg-name="TV Tropical (Record TV)" tvg-logo="https://distv.net/icones/tvtropical.png" group-title="Canais | Natal",TV Tropical (Record TV)
-http://pe1b.tvpn.eu:8080/flavio/flavio/302
-#EXTINF:-1 tvg-id="" tvg-name="TV UFPB (TV Brasil)" tvg-logo="https://distv.net/icones/tvufbp.png" group-title="Canais | Abertos",TV UFPB (TV Brasil)
-http://pe1b.tvpn.eu:8080/flavio/flavio/327
-#EXTINF:-1 tvg-id="" tvg-name="TV UP (Futura)" tvg-logo="https://distv.net/icones/tvup.png" group-title="Canais | Abertos",TV UP (Futura)
-http://pe1b.tvpn.eu:8080/flavio/flavio/376
-#EXTINF:-1 tvg-id="" tvg-name="TV Verdade (TV Verdade)" tvg-logo="https://distv.net/icones/tvverdade.png" group-title="Canais | Religiosos",TV Verdade (TV Verdade)
-http://pe1b.tvpn.eu:8080/flavio/flavio/378
-#EXTINF:-1 tvg-id="TVVALE" tvg-name="TV Verde Vale" tvg-logo="https://distv.net/icones/tvverdevale.png" group-title="Canais | Ceara",TV Verde Vale
-http://pe1b.tvpn.eu:8080/flavio/flavio/356
-#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="TV Verdes Mares (Globo)" tvg-logo="https://distv.net/icones/globotvverdesmares.png" group-title="Canais | Globo",TV Verdes Mares (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/440
-#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="TV Verdes Mares (Globo)" tvg-logo="https://distv.net/icones/globotvverdesmares.png" group-title="Canais | Ceara",TV Verdes Mares (Globo)
-http://pe1b.tvpn.eu:8080/flavio/flavio/440
-#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV" tvg-logo="https://distv.net/icones/tvuniversal.png" group-title="Canais | Filmes e Séries",Universal TV
-http://pe1b.tvpn.eu:8080/flavio/flavio/159
-#EXTINF:-1 tvg-id="univesptv.br" tvg-name="Univesp TV" tvg-logo="https://distv.net/icones/univesp.png" group-title="Canais | Abertos",Univesp TV
-http://pe1b.tvpn.eu:8080/flavio/flavio/415
-#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 Mega Hits" tvg-logo="https://distv.net/icones/vh1megahits.png" group-title="Canais | Entretenimento",VH1 Mega Hits
-http://pe1b.tvpn.eu:8080/flavio/flavio/123
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva" tvg-logo="https://distv.net/icones/viva.png" group-title="Canais | Entretenimento",Viva
-http://pe1b.tvpn.eu:8080/flavio/flavio/124
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel" tvg-logo="https://distv.net/icones/warnerchannel.png" group-title="Canais | Filmes e Séries",Warner Channel
-http://pe1b.tvpn.eu:8080/flavio/flavio/160
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo" tvg-logo="https://distv.net/icones/woohoo.png" group-title="Canais | Entretenimento",Woohoo
-http://pe1b.tvpn.eu:8080/flavio/flavio/170
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo Kids" tvg-logo="https://distv.net/icones/zoomoo.png" group-title="Canais | Infantil",ZooMoo Kids
-http://pe1b.tvpn.eu:8080/flavio/flavio/94
-#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil (02)" tvg-logo="https://distv.net/icones/powercouplebrasil.png" group-title="Canais | Power Couple Brasil",Power Couple Brasil (02)
-http://pe1b.tvpn.eu:8080/flavio/flavio/465
-#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil (01)" tvg-logo="https://distv.net/icones/powercouplebrasil.png" group-title="Canais | Power Couple Brasil",Power Couple Brasil (01)
-http://pe1b.tvpn.eu:8080/flavio/flavio/464
+
+#EXTINF:-1,A FAZENDA 01 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610581
+#EXTINF:-1,A FAZENDA 01 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610582
+#EXTINF:-1,A FAZENDA 02 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610583
+#EXTINF:-1,A FAZENDA 02 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610584
+#EXTINF:-1,A FAZENDA 03 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610585
+#EXTINF:-1,A FAZENDA 04 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610586
+#EXTINF:-1,A FAZENDA 05 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610587
+#EXTINF:-1,A FAZENDA 06 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610588
+#EXTINF:-1,A FAZENDA 07 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610589
+#EXTINF:-1,A FAZENDA 08 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610590
+#EXTINF:-1,A FAZENDA 09 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610591
+#EXTINF:-1,A FAZENDA 14 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610592
+#EXTINF:-1,A&E FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623210
+#EXTINF:-1,A&E HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/628013
+#EXTINF:-1,A&E SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622743
+#EXTINF:-1,ADESSO TV HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605279
+#EXTINF:-1,AGROMAIS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605039
+#EXTINF:-1,AGROMAIS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605040
+#EXTINF:-1,AGROMAIS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605041
+#EXTINF:-1,ALPHA CHANNEL TV HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605281
+#EXTINF:-1,AMC 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603668
+#EXTINF:-1,AMC FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623199
+#EXTINF:-1,AMC HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622307
+#EXTINF:-1,AMC SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622744
+#EXTINF:-1,ANIMAL PLANET 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603664
+#EXTINF:-1,ANIMAL PLANET FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604817
+#EXTINF:-1,ANIMAL PLANET HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604816
+#EXTINF:-1,ANIMAL PLANET SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604828
+#EXTINF:-1,APARECIDA HD*
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604244
+#EXTINF:-1,APARECIDA HD¹
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604245
+#EXTINF:-1,ARTE 1  FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623235
+#EXTINF:-1,ARTE 1 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493143
+#EXTINF:-1,ARTE 1 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605308
+#EXTINF:-1,AXN  FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623196
+#EXTINF:-1,AXN  HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622309
+#EXTINF:-1,AXN  SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622746
+#EXTINF:-1,AXN 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603665
+#EXTINF:-1,AXN FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493150
+#EXTINF:-1,AXN HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493153
+#EXTINF:-1,BABY TV FULLHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605175
+#EXTINF:-1,BABY TV HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605174
+#EXTINF:-1,BABYTV FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605176
+#EXTINF:-1,BABYTV² FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605177
+#EXTINF:-1,BAND   RJ  FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737370
+#EXTINF:-1,BAND   RJ  HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737369
+#EXTINF:-1,BAND   RJ  SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737368
+#EXTINF:-1,Band - RBA TV (PA)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610150
+#EXTINF:-1,BAND CAMPINAS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737371
+#EXTINF:-1,BAND CAMPINAS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493385
+#EXTINF:-1,BAND FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605352
+#EXTINF:-1,BAND NEWS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623225
+#EXTINF:-1,BAND NEWS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622405
+#EXTINF:-1,BAND NEWS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622750
+#EXTINF:-1,BAND NORDESTE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493386
+#EXTINF:-1,BAND RS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605354
+#EXTINF:-1,BAND RS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605353
+#EXTINF:-1,BAND SANTOS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737372
+#EXTINF:-1,BAND SP FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605356
+#EXTINF:-1,BAND SP HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605355
+#EXTINF:-1,BAND SP SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605514
+#EXTINF:-1,BAND SPORTS 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603669
+#EXTINF:-1,BAND SPORTS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623129
+#EXTINF:-1,BAND SPORTS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622310
+#EXTINF:-1,BAND SPORTS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622751
+#EXTINF:-1,BIS 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603671
+#EXTINF:-1,BIS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623240
+#EXTINF:-1,BIS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737410
+#EXTINF:-1,BIS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737409
+#EXTINF:-1,BORA FILMES HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604834
+#EXTINF:-1,CANAL BRASIL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623242
+#EXTINF:-1,CANAL BRASIL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622437
+#EXTINF:-1,CANAL BRASIL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/628023
+#EXTINF:-1,CANAL DO BOI HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605282
+#EXTINF:-1,CANAL RURAL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605283
+#EXTINF:-1,CANAL RURAL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605284
+#EXTINF:-1,CANAL RURAL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605285
+#EXTINF:-1,CARTOON NETWORK FULLHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605180
+#EXTINF:-1,CARTOON NETWORK FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605178
+#EXTINF:-1,CARTOON NETWORK HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605179
+#EXTINF:-1,CARTOONITO  FHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605181
+#EXTINF:-1,CARTOONITO FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605183
+#EXTINF:-1,CARTOONITO HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605182
+#EXTINF:-1,CARTOONITO SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607978
+#EXTINF:-1,CBN ESTUDIOS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605130
+#EXTINF:-1,Chaves Completo
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610521
+#EXTINF:-1,CINE ANIME
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606939
+#EXTINF:-1,CINE AÇÃO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606940
+#EXTINF:-1,CINE COMEDIA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606941
+#EXTINF:-1,CINE COMEDIA 1
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606942
+#EXTINF:-1,CINE COMEDIA 2
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606943
+#EXTINF:-1,CINE COMEDIA 3
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606944
+#EXTINF:-1,CINE COMEDIA 4
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606945
+#EXTINF:-1,CINE COMEDIA 5
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606946
+#EXTINF:-1,CINE COMEDIA 6
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606947
+#EXTINF:-1,CINE COMEDIA 7
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606948
+#EXTINF:-1,CINE COMEDIA 8
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606949
+#EXTINF:-1,CINE DRAMA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606950
+#EXTINF:-1,CINE ESPECIAL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606951
+#EXTINF:-1,CINE FAROESTE
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606952
+#EXTINF:-1,CINE FICÇÃO E FANTASIA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606953
+#EXTINF:-1,CINE GOSPEL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606954
+#EXTINF:-1,CINE HEROIS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606955
+#EXTINF:-1,CINE INFANTIL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606956
+#EXTINF:-1,CINE INFANTIL 2
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606957
+#EXTINF:-1,CINE LANÇAMENTOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606958
+#EXTINF:-1,CINE NACIONAL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606959
+#EXTINF:-1,CINE NETFLIX 1
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606960
+#EXTINF:-1,CINE NETFLIX 2
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606961
+#EXTINF:-1,CINE NETFLIX 3
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606962
+#EXTINF:-1,CINE NETFLIX 4
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606963
+#EXTINF:-1,CINE NOSTALGIA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606964
+#EXTINF:-1,CINE PIPOCA 1
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606965
+#EXTINF:-1,CINE PIPOCA 2
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606966
+#EXTINF:-1,CINE PIPOCA 3
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606967
+#EXTINF:-1,CINE PIPOCA 4
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606968
+#EXTINF:-1,CINE PIPOCA 5
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606969
+#EXTINF:-1,CINE PREMIUM
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606970
+#EXTINF:-1,CINE SKY 1
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606971
+#EXTINF:-1,CINE SKY 10
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606972
+#EXTINF:-1,CINE SKY 11
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606973
+#EXTINF:-1,CINE SKY 12
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606974
+#EXTINF:-1,CINE SKY 13
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606975
+#EXTINF:-1,CINE SKY 14
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606976
+#EXTINF:-1,CINE SKY 15
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606977
+#EXTINF:-1,CINE SKY 2
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606978
+#EXTINF:-1,CINE SKY 3
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606979
+#EXTINF:-1,CINE SKY 4
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606980
+#EXTINF:-1,CINE SKY 5
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606981
+#EXTINF:-1,CINE SKY 6
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606982
+#EXTINF:-1,CINE SKY 7
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606983
+#EXTINF:-1,CINE SKY 8
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606984
+#EXTINF:-1,CINE SKY 9
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606985
+#EXTINF:-1,CINE SKY PLAY 1
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606986
+#EXTINF:-1,CINE SKY PLAY 2
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606987
+#EXTINF:-1,CINE TERROR
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606988
+#EXTINF:-1,CINECANAL 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603686
+#EXTINF:-1,CINECANAL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604835
+#EXTINF:-1,CINECANAL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604836
+#EXTINF:-1,CINECANAL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604837
+#EXTINF:-1,CINEMAX 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603679
+#EXTINF:-1,CINEMAX FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623200
+#EXTINF:-1,CINEMAX HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622314
+#EXTINF:-1,CINEMAX SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622759
+#EXTINF:-1,CLUBINHO FUN HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605184
+#EXTINF:-1,CNN BRASIL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622634
+#EXTINF:-1,CNN BRASIL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622404
+#EXTINF:-1,CNN BRASIL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622887
+#EXTINF:-1,CNN INTERNACIONAL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1369702
+#EXTINF:-1,COLEÇÃO 007
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606989
+#EXTINF:-1,COM BRASIL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605286
+#EXTINF:-1,COMBATE 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603677
+#EXTINF:-1,COMBATE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623145
+#EXTINF:-1,COMBATE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/746096
+#EXTINF:-1,COMBATE SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622760
+#EXTINF:-1,COMEDY CENTRAL 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603674
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623217
+#EXTINF:-1,COMEDY CENTRAL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622316
+#EXTINF:-1,COMEDY CENTRAL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622761
+#EXTINF:-1,CONMEBOL TV 1 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622419
+#EXTINF:-1,CONMEBOL TV 2 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622420
+#EXTINF:-1,CONMEBOL TV 3 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622422
+#EXTINF:-1,CONMEBOL TV 4 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/746102
+#EXTINF:-1,CONMEBOL TV 5 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1492840
+#EXTINF:-1,CORONA VIRUS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605131
+#EXTINF:-1,CURTA! 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603678
+#EXTINF:-1,Curta! FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627403
+#EXTINF:-1,Curta! HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627404
+#EXTINF:-1,Curta! SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627405
+#EXTINF:-1,DAZN 1
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738431
+#EXTINF:-1,DAZN 2
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738432
+#EXTINF:-1,DAZN 3
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738433
+#EXTINF:-1,DAZN 4
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738434
+#EXTINF:-1,DAZN 5
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604790
+#EXTINF:-1,DAZN 6
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604791
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603675
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623169
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622317
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622763
+#EXTINF:-1,DISCOVERY H&H FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623168
+#EXTINF:-1,DISCOVERY H&H HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/742764
+#EXTINF:-1,DISCOVERY H&H SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622764
+#EXTINF:-1,DISCOVERY ID - FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623180
+#EXTINF:-1,DISCOVERY ID - HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622349
+#EXTINF:-1,DISCOVERY ID - SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622800
+#EXTINF:-1,DISCOVERY KIDS 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603684
+#EXTINF:-1,DISCOVERY KIDS FULLHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605187
+#EXTINF:-1,DISCOVERY KIDS FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605185
+#EXTINF:-1,DISCOVERY KIDS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605186
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623181
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622321
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627420
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623182
+#EXTINF:-1,DISCOVERY THEATER HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622322
+#EXTINF:-1,DISCOVERY THEATER SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627423
+#EXTINF:-1,DISCOVERY TLC FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623170
+#EXTINF:-1,DISCOVERY TLC HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622386
+#EXTINF:-1,DISCOVERY TLC SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622857
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/742765
+#EXTINF:-1,DISCOVERY TURBO HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622323
+#EXTINF:-1,DISCOVERY TURBO SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622766
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623163
+#EXTINF:-1,DISCOVERY WORLD HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622324
+#EXTINF:-1,DISCOVERY WORLD SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627429
+#EXTINF:-1,DISNEY CHANNEL FULLHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605190
+#EXTINF:-1,DISNEY CHANNEL FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605188
+#EXTINF:-1,DISNEY CHANNEL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605189
+#EXTINF:-1,DISNEY JUNIOR FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605191
+#EXTINF:-1,DISNEY XD 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603681
+#EXTINF:-1,E! FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623223
+#EXTINF:-1,E! HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622327
+#EXTINF:-1,E! SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622770
+#EXTINF:-1,Edu Primitivo Pegadinhas
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610522
+#EXTINF:-1,ELEVEN SPORTS 01 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738446
+#EXTINF:-1,ELEVEN SPORTS 02 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738447
+#EXTINF:-1,ELEVEN SPORTS 03 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738448
+#EXTINF:-1,ELEVEN SPORTS 04 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738449
+#EXTINF:-1,ELEVEN SPORTS 05 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738450
+#EXTINF:-1,ELEVEN SPORTS 06 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738451
+#EXTINF:-1,ELEVEN SPORTS 07 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738452
+#EXTINF:-1,ELEVEN SPORTS 08 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738453
+#EXTINF:-1,ELEVEN SPORTS 09 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738454
+#EXTINF:-1,ELEVEN SPORTS 10 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738455
+#EXTINF:-1,ENTRETENDO HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604838
+#EXTINF:-1,ESPN 2 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737296
+#EXTINF:-1,ESPN 2 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622328
+#EXTINF:-1,ESPN 2 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622775
+#EXTINF:-1,ESPN 3 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623133
+#EXTINF:-1,ESPN 3 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622525
+#EXTINF:-1,ESPN 3 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/628031
+#EXTINF:-1,ESPN 4 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623135
+#EXTINF:-1,ESPN 4 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622336
+#EXTINF:-1,ESPN 4 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/628028
+#EXTINF:-1,ESPN 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603696
+#EXTINF:-1,ESPN Brasil FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1369744
+#EXTINF:-1,ESPN Brasil HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1369745
+#EXTINF:-1,ESPN Brasil SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1369746
+#EXTINF:-1,ESPN Extra FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1369747
+#EXTINF:-1,ESPN Extra HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1369748
+#EXTINF:-1,ESPN Extra SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1369749
+#EXTINF:-1,ESTADIO TNT SPORTS 01 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/742624
+#EXTINF:-1,ESTADIO TNT SPORTS 02 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/742625
+#EXTINF:-1,ESTADIO TNT SPORTS 03 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/742626
+#EXTINF:-1,ESTADIO TNT SPORTS 04 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/742627
+#EXTINF:-1,ESTADIO TNT SPORTS 05 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/742628
+#EXTINF:-1,ESTADIO TNT SPORTS 06 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604792
+#EXTINF:-1,ESTADIO TNT SPORTS 07 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604793
+#EXTINF:-1,ESTADIO TNT SPORTS 08 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604794
+#EXTINF:-1,ESTADIO TNT SPORTS 09 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604795
+#EXTINF:-1,ESTADIO TNT SPORTS 10 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604796
+#EXTINF:-1,EUROSPORTS 2 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603689
+#EXTINF:-1,EVANGELIZAR
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604246
+#EXTINF:-1,EVANGELIZAR 2
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604247
+#EXTINF:-1,FISH TV FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627448
+#EXTINF:-1,FISH TV HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605310
+#EXTINF:-1,FOOD NETWORK 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603680
+#EXTINF:-1,FOOD NETWORK FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627451
+#EXTINF:-1,FOOD NETWORK HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627452
+#EXTINF:-1,FOOD NETWORK SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627453
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623134
+#EXTINF:-1,FOX SPORTS 2 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622335
+#EXTINF:-1,FOX SPORTS 2 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622783
+#EXTINF:-1,FURACAO LIVE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604797
+#EXTINF:-1,Futura HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627702
+#EXTINF:-1,Futura SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622784
+#EXTINF:-1,FX 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603687
+#EXTINF:-1,FX FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623201
+#EXTINF:-1,FX HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622337
+#EXTINF:-1,FX SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622785
+#EXTINF:-1,Eu, a Patroa e as Crianças
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610538
+#EXTINF:-1,GLOBO   RJ   FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610516
+#EXTINF:-1,GLOBO   RJ   HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607316
+#EXTINF:-1,GLOBO   RJ   SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607315
+#EXTINF:-1,GLOBO   SP   FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607319
+#EXTINF:-1,GLOBO   SP   HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607318
+#EXTINF:-1,GLOBO   SP   SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607317
+#EXTINF:-1,GLOBO  BAHIA FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607334
+#EXTINF:-1,GLOBO  BAHIA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607333
+#EXTINF:-1,GLOBO  BAHIA SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607332
+#EXTINF:-1,GLOBO  BRASILIA FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607337
+#EXTINF:-1,GLOBO  BRASILIA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607336
+#EXTINF:-1,GLOBO  BRASILIA SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607335
+#EXTINF:-1,GLOBO  MINAS GERAIS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607355
+#EXTINF:-1,GLOBO  MINAS GERAIS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607354
+#EXTINF:-1,GLOBO  MINAS GERAIS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607353
+#EXTINF:-1,GLOBO  NORDESTE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607361
+#EXTINF:-1,GLOBO  NORDESTE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607360
+#EXTINF:-1,GLOBO  NORDESTE SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607359
+#EXTINF:-1,GLOBO  NSC  FLORIANOPOLIS-SC FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607367
+#EXTINF:-1,GLOBO  NSC  FLORIANOPOLIS-SC HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607366
+#EXTINF:-1,GLOBO  NSC  FLORIANOPOLIS-SC SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607365
+#EXTINF:-1,GLOBO  PARA FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607370
+#EXTINF:-1,GLOBO  PARA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607369
+#EXTINF:-1,GLOBO  PARA SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607368
+#EXTINF:-1,GLOBO  RBS P. ALEGRE-RS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607373
+#EXTINF:-1,GLOBO  RBS P. ALEGRE-RS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607372
+#EXTINF:-1,GLOBO  RBS P. ALEGRE-RS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607371
+#EXTINF:-1,GLOBO  SERGIPE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607382
+#EXTINF:-1,GLOBO  SERGIPE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607381
+#EXTINF:-1,GLOBO  SERGIPE SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607380
+#EXTINF:-1,GLOBO ACRE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607322
+#EXTINF:-1,GLOBO ACRE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607321
+#EXTINF:-1,GLOBO ACRE SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607320
+#EXTINF:-1,GLOBO ALAGOAS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610514
+#EXTINF:-1,GLOBO ALAGOAS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610515
+#EXTINF:-1,GLOBO AMAZONAS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607325
+#EXTINF:-1,GLOBO AMAZONAS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607324
+#EXTINF:-1,GLOBO AMAZONAS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607323
+#EXTINF:-1,GLOBO ANHANGUERA-GO FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607328
+#EXTINF:-1,GLOBO ANHANGUERA-GO HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607327
+#EXTINF:-1,GLOBO ANHANGUERA-GO SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607326
+#EXTINF:-1,GLOBO ASA BRANCA-PE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607331
+#EXTINF:-1,GLOBO ASA BRANCA-PE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607330
+#EXTINF:-1,GLOBO ASA BRANCA-PE SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607329
+#EXTINF:-1,GLOBO CABO BRANCO-PB FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607340
+#EXTINF:-1,GLOBO CABO BRANCO-PB HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607339
+#EXTINF:-1,GLOBO CABO BRANCO-PB SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607338
+#EXTINF:-1,GLOBO CENTRO AMERICA-MT FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607343
+#EXTINF:-1,GLOBO CENTRO AMERICA-MT HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607342
+#EXTINF:-1,GLOBO CENTRO AMERICA-MT SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607341
+#EXTINF:-1,GLOBO EPTV CAMPINAS-SP FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607346
+#EXTINF:-1,GLOBO EPTV CAMPINAS-SP HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607345
+#EXTINF:-1,GLOBO EPTV CAMPINAS-SP SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607344
+#EXTINF:-1,GLOBO EPTV R.PRETO-SP FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607349
+#EXTINF:-1,GLOBO EPTV R.PRETO-SP HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607348
+#EXTINF:-1,GLOBO EPTV R.PRETO-SP SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607347
+#EXTINF:-1,GLOBO INTERTV CABUGI-RN FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607352
+#EXTINF:-1,GLOBO INTERTV CABUGI-RN HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607351
+#EXTINF:-1,GLOBO INTERTV CABUGI-RN SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607350
+#EXTINF:-1,GLOBO MIRANTE-MA FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607358
+#EXTINF:-1,GLOBO MIRANTE-MA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607357
+#EXTINF:-1,GLOBO MIRANTE-MA SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607356
+#EXTINF:-1,GLOBO NEWS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623212
+#EXTINF:-1,GLOBO NEWS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622338
+#EXTINF:-1,GLOBO NEWS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622788
+#EXTINF:-1,GLOBO NSC BLUMENAU-SC FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607364
+#EXTINF:-1,GLOBO NSC BLUMENAU-SC HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607363
+#EXTINF:-1,GLOBO NSC BLUMENAU-SC SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607362
+#EXTINF:-1,GLOBO RIO SUL-RJ FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607376
+#EXTINF:-1,GLOBO RIO SUL-RJ HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607375
+#EXTINF:-1,GLOBO RIO SUL-RJ SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607374
+#EXTINF:-1,GLOBO RPC CURITIBA-PR FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607379
+#EXTINF:-1,GLOBO RPC CURITIBA-PR HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607378
+#EXTINF:-1,GLOBO RPC CURITIBA-PR SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607377
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607500
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607501
+#EXTINF:-1,GLOBO TV GAZETA SUL-ES FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607394
+#EXTINF:-1,GLOBO TV GAZETA SUL-ES HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607393
+#EXTINF:-1,GLOBO TV GAZETA SUL-ES SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607392
+#EXTINF:-1,GLOBO TV GAZETA-AL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607391
+#EXTINF:-1,GLOBO TV GAZETA-AL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607390
+#EXTINF:-1,GLOBO TV GAZETA-AL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607389
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS-SP FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607397
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS-SP HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607396
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS-SP SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607395
+#EXTINF:-1,GLOBO TV VANGUARDA S.J CAMPOS-SP FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607400
+#EXTINF:-1,GLOBO TV VANGUARDA S.J CAMPOS-SP HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607399
+#EXTINF:-1,GLOBO TV VANGUARDA S.J CAMPOS-SP SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607398
+#EXTINF:-1,GLOBO TV VANGUARDA TAUBATE-SP FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607403
+#EXTINF:-1,GLOBO TV VANGUARDA TAUBATE-SP HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607402
+#EXTINF:-1,GLOBO TV VANGUARDA TAUBATE-SP SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607401
+#EXTINF:-1,GLOBO TVTEM BAURU-SP  FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607385
+#EXTINF:-1,GLOBO TVTEM BAURU-SP  HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607384
+#EXTINF:-1,GLOBO TVTEM BAURU-SP SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607383
+#EXTINF:-1,GLOBO TVTEM SOROCABA-SP FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607388
+#EXTINF:-1,GLOBO TVTEM SOROCABA-SP HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607387
+#EXTINF:-1,GLOBO TVTEM SOROCABA-SP SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607386
+#EXTINF:-1,GLOBO VERDES MARES-CE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607406
+#EXTINF:-1,GLOBO VERDES MARES-CE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607405
+#EXTINF:-1,GLOBO VERDES MARES-CE SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607404
+#EXTINF:-1,GLOOB FULLHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605194
+#EXTINF:-1,GLOOB FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605192
+#EXTINF:-1,GLOOB HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605193
+#EXTINF:-1,GLOOBINHO FULLHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605196
+#EXTINF:-1,GLOOBINHO HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605195
+#EXTINF:-1,GNT FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627565
+#EXTINF:-1,GNT HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627566
+#EXTINF:-1,GNT SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627567
+#EXTINF:-1,H2 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604819
+#EXTINF:-1,H2 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604818
+#EXTINF:-1,H2 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604829
+#EXTINF:-1,HBO  FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/628025
+#EXTINF:-1,HBO  HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622344
+#EXTINF:-1,HBO  SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622794
+#EXTINF:-1,HBO 2 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623154
+#EXTINF:-1,HBO 2 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605137
+#EXTINF:-1,HBO 2 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622798
+#EXTINF:-1,HBO FAMILY FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623156
+#EXTINF:-1,HBO FAMILY HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622343
+#EXTINF:-1,HBO FAMILY SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622795
+#EXTINF:-1,HBO FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370830
+#EXTINF:-1,HBO MAX 01
+http://fastuhd.tech:80/98847cami6244/6244cami98847/742629
+#EXTINF:-1,HBO MAX 02
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622504
+#EXTINF:-1,HBO MAX 03
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1555815
+#EXTINF:-1,HBO MAX 04
+http://fastuhd.tech:80/98847cami6244/6244cami98847/742631
+#EXTINF:-1,HBO MAX 05
+http://fastuhd.tech:80/98847cami6244/6244cami98847/742633
+#EXTINF:-1,HBO MUNDI FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623158
+#EXTINF:-1,HBO MUNDI FHD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370838
+#EXTINF:-1,HBO MUNDI HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622351
+#EXTINF:-1,HBO MUNDI HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370839
+#EXTINF:-1,HBO MUNDI SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623035
+#EXTINF:-1,HBO PLUS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623155
+#EXTINF:-1,HBO PLUS FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370831
+#EXTINF:-1,HBO PLUS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622345
+#EXTINF:-1,HBO PLUS HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370828
+#EXTINF:-1,HBO PLUS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622796
+#EXTINF:-1,HBO POP FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623160
+#EXTINF:-1,HBO POP FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370841
+#EXTINF:-1,HBO POP HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622353
+#EXTINF:-1,HBO POP HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370842
+#EXTINF:-1,HBO POP SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623037
+#EXTINF:-1,HBO SIGNATURE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623157
+#EXTINF:-1,HBO SIGNATURE FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493169
+#EXTINF:-1,HBO SIGNATURE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622346
+#EXTINF:-1,HBO SIGNATURE HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370827
+#EXTINF:-1,HBO SIGNATURE SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622797
+#EXTINF:-1,HBO XTREAM HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493171
+#EXTINF:-1,HBO XTREME FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623159
+#EXTINF:-1,HBO XTREME FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493170
+#EXTINF:-1,HBO XTREME HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622352
+#EXTINF:-1,HBO XTREME SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/628019
+#EXTINF:-1,HELLO TV HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605305
+#EXTINF:-1,HGTV 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603676
+#EXTINF:-1,HGTV FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604821
+#EXTINF:-1,HGTV HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604820
+#EXTINF:-1,HGTV SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604830
+#EXTINF:-1,HISTORY CHANNEL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604823
+#EXTINF:-1,HISTORY CHANNEL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604822
+#EXTINF:-1,HISTORY CHANNEL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604831
+#EXTINF:-1,IGREJA UNIVERSAL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604248
+#EXTINF:-1,IMPDA HD*
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604249
+#EXTINF:-1,INSPIRE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605306
+#EXTINF:-1,JP NEWS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/628016
+#EXTINF:-1,JP NEWS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/628017
+#EXTINF:-1,JP NEWS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/628018
+#EXTINF:-1,LIFETIME FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627484
+#EXTINF:-1,LIFETIME HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627581
+#EXTINF:-1,LIFETIME SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627486
+#EXTINF:-1,LIKE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605326
+#EXTINF:-1,LIKE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605327
+#EXTINF:-1,Looney Tunes
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610542
+#EXTINF:-1,LOVE NATURE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605328
+#EXTINF:-1,LOVE NATURE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605329
+#EXTINF:-1,M2O MUSIC HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605330
+#EXTINF:-1,MARVEL & DC
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606990
+#EXTINF:-1,MEGA PIX FHD LEGENDADOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370844
+#EXTINF:-1,MEGAPIX 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603697
+#EXTINF:-1,MEGAPIX FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623202
+#EXTINF:-1,MEGAPIX HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622354
+#EXTINF:-1,MEGAPIX SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622806
+#EXTINF:-1,MODO VIAGEM FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605331
+#EXTINF:-1,MODO VIAGEM HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605332
+#EXTINF:-1,MTV  FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627487
+#EXTINF:-1,MTV  HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627488
+#EXTINF:-1,MTV  SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627489
+#EXTINF:-1,MTV 00s FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605311
+#EXTINF:-1,MTV 00s HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605312
+#EXTINF:-1,MTV 00s SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605313
+#EXTINF:-1,MTV LIVE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605314
+#EXTINF:-1,MTV LIVE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605315
+#EXTINF:-1,MTV LIVE SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605316
+#EXTINF:-1,MULTISHOW FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627571
+#EXTINF:-1,MULTISHOW HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627572
+#EXTINF:-1,MULTISHOW SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627573
+#EXTINF:-1,MUSIC BOX BRAZIL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605317
+#EXTINF:-1,MUSIC BOX BRAZIL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605318
+#EXTINF:-1,NATIONAL GEOGRAPHIC 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603670
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604825
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604824
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604832
+#EXTINF:-1,NBA - 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603690
+#EXTINF:-1,NHK HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605132
+#EXTINF:-1,NICK JR FULLHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605199
+#EXTINF:-1,NICK JR FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605197
+#EXTINF:-1,NICK JR HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605198
+#EXTINF:-1,NICKELODEON FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605201
+#EXTINF:-1,NICKELODEON HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605200
+#EXTINF:-1,NICKELODEON SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610517
+#EXTINF:-1,Notícia
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610518
+#EXTINF:-1,NSPORTS 01 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604798
+#EXTINF:-1,NSPORTS 02 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604799
+#EXTINF:-1,NSPORTS 03 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604800
+#EXTINF:-1,NSPORTS 04 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604801
+#EXTINF:-1,NSPORTS 05 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604802
+#EXTINF:-1,NSPORTS 06 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604803
+#EXTINF:-1,NSPORTS 07 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604804
+#EXTINF:-1,NSPORTS 08 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604805
+#EXTINF:-1,NSPORTS 09 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604806
+#EXTINF:-1,NSPORTS 10 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604807
+#EXTINF:-1,Off FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627574
+#EXTINF:-1,Off HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627575
+#EXTINF:-1,Off SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627576
+#EXTINF:-1,PAI ETERNO SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604250
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623204
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622363
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622818
+#EXTINF:-1,PAULISTAO PLAY 04 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604811
+#EXTINF:-1,PAULISTAO PLAY 05 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604812
+#EXTINF:-1,PAULISTÃO PLAY 01 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604808
+#EXTINF:-1,PAULISTÃO PLAY 02 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604809
+#EXTINF:-1,PAULISTÃO PLAY 03 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604810
+#EXTINF:-1,PEGADINHA - ALMA PENADA E O GATO PRETO! SINISTRO!
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610525
+#EXTINF:-1,PEGADINHA: PAPAI COBRANDO DIVIDAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610523
+#EXTINF:-1,Pica-Pau1
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610528
+#EXTINF:-1,POLISHOP
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605333
+#EXTINF:-1,PREMIERE 1 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603693
+#EXTINF:-1,PREMIERE 1 CLUBES FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604699
+#EXTINF:-1,PREMIERE 1 CLUBES HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604698
+#EXTINF:-1,PREMIERE 1 CLUBES SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604711
+#EXTINF:-1,PREMIERE 2 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604701
+#EXTINF:-1,PREMIERE 2 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604700
+#EXTINF:-1,PREMIERE 2 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604712
+#EXTINF:-1,PREMIERE 3 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604703
+#EXTINF:-1,PREMIERE 3 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604702
+#EXTINF:-1,PREMIERE 3 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604713
+#EXTINF:-1,PREMIERE 4 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604705
+#EXTINF:-1,PREMIERE 4 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604704
+#EXTINF:-1,PREMIERE 4 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604714
+#EXTINF:-1,PREMIERE 5 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603695
+#EXTINF:-1,PREMIERE 5 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604707
+#EXTINF:-1,PREMIERE 5 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604706
+#EXTINF:-1,PREMIERE 5 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604715
+#EXTINF:-1,PREMIERE 6 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604709
+#EXTINF:-1,PREMIERE 6 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604708
+#EXTINF:-1,PREMIERE 6 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604716
+#EXTINF:-1,PREMIERE 7 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603694
+#EXTINF:-1,PREMIERE 7 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604710
+#EXTINF:-1,PREMIERE 7 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604717
+#EXTINF:-1,Prime Box Brazil HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1369858
+#EXTINF:-1,Prime Box Brazil SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1369859
+#EXTINF:-1,PRIME VIDEO 1 
+http://fastuhd.tech:80/98847cami6244/6244cami98847/739172
+#EXTINF:-1,PRIME VIDEO 2
+http://fastuhd.tech:80/98847cami6244/6244cami98847/739173
+#EXTINF:-1,PRIME VIDEO 3
+http://fastuhd.tech:80/98847cami6244/6244cami98847/739174
+#EXTINF:-1,PRIME VIDEO 4
+http://fastuhd.tech:80/98847cami6244/6244cami98847/742621
+#EXTINF:-1,PRIME VIDEO 5
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1492835
+#EXTINF:-1,PRIME VIDEO 6
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1492836
+#EXTINF:-1,PRIME VIDEO 7
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1492837
+#EXTINF:-1,RECORD BAHIA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607249
+#EXTINF:-1,RECORD BAHIA SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607248
+#EXTINF:-1,RECORD BRASILIA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607251
+#EXTINF:-1,RECORD BRASILIA SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607250
+#EXTINF:-1,RECORD CAMPINAS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607253
+#EXTINF:-1,RECORD CAMPINAS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607252
+#EXTINF:-1,RECORD GOIAS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607260
+#EXTINF:-1,RECORD GOIAS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607259
+#EXTINF:-1,RECORD HD²
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605224
+#EXTINF:-1,RECORD MG HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607255
+#EXTINF:-1,RECORD MG SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607254
+#EXTINF:-1,RECORD NEWS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623226
+#EXTINF:-1,RECORD NEWS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622406
+#EXTINF:-1,RECORD NEWS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622832
+#EXTINF:-1,RECORD PARA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607257
+#EXTINF:-1,RECORD PARA SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607256
+#EXTINF:-1,RECORD RJ FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607247
+#EXTINF:-1,RECORD RJ HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607246
+#EXTINF:-1,RECORD RJ SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607245
+#EXTINF:-1,RECORD RS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605357
+#EXTINF:-1,RECORD RS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607258
+#EXTINF:-1,RECORD SERGIPE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607262
+#EXTINF:-1,RECORD SERGIPE SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607261
+#EXTINF:-1,RECORD SP FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607244
+#EXTINF:-1,RECORD SP HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607243
+#EXTINF:-1,RECORD SP SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607242
+#EXTINF:-1,Record TV (MT)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610147
+#EXTINF:-1,Record TV (RN)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610148
+#EXTINF:-1,Record TV Criciúma NDTV (SC)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610149
+#EXTINF:-1,RECORD TV SIC RONDONIA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605225
+#EXTINF:-1,RECORDTV BA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605226
+#EXTINF:-1,RECORDTV BELEM HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605227
+#EXTINF:-1,RECORDTV CAMPINAS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605228
+#EXTINF:-1,RECORDTV DF HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605229
+#EXTINF:-1,RECORDTV FHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605231
+#EXTINF:-1,RECORDTV FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605230
+#EXTINF:-1,RECORDTV RIO HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605232
+#EXTINF:-1,RECORDTV RS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605233
+#EXTINF:-1,RECORDTV SP HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605234
+#EXTINF:-1,RECORDTV TERESINA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605235
+#EXTINF:-1,REDE GOSPEL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604251
+#EXTINF:-1,REDE GOSPEL HD*
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604252
+#EXTINF:-1,REDE GOSPEL RENASCER HD*
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604253
+#EXTINF:-1,REDE MOSAICO HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605334
+#EXTINF:-1,REDE MUNDIAL UHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604254
+#EXTINF:-1,REDE PREMIUM TV HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605287
+#EXTINF:-1,REDE SUPER HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604255
+#EXTINF:-1,REDE SUPER HD*
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604256
+#EXTINF:-1,REDE TV FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623228
+#EXTINF:-1,REDE TV HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622836
+#EXTINF:-1,REDE TV SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622372
+#EXTINF:-1,REDE VIDA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604257
+#EXTINF:-1,REDETV! PAMPA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605280
+#EXTINF:-1,RedeTV! TV Arapuan HD (PB)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610151
+#EXTINF:-1,RedeTV! TV Pampa - (RS)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610152
+#EXTINF:-1,RETRO PLUS 01 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605319
+#EXTINF:-1,RETRO PLUS 02 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605320
+#EXTINF:-1,RETRO PLUS 03 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605321
+#EXTINF:-1,SABOR e ARTE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605335
+#EXTINF:-1,SABOR e ARTE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605336
+#EXTINF:-1,SBT - TV Cidade Verde - (PI)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610119
+#EXTINF:-1,SBT - TV Jornal (PE)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610131
+#EXTINF:-1,SBT - TV Jornal Caruaru (PE)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610132
+#EXTINF:-1,Sbt Rede Massa (PR)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610123
+#EXTINF:-1,SBT REDE MASSA MARINGA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605209
+#EXTINF:-1,SBT RJ FULLHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605212
+#EXTINF:-1,SBT RJ FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605210
+#EXTINF:-1,SBT RJ HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605211
+#EXTINF:-1,SBT RS FULLHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605214
+#EXTINF:-1,SBT RS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605213
+#EXTINF:-1,SBT SP FULLHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605218
+#EXTINF:-1,SBT SP FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605215
+#EXTINF:-1,SBT SP HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605216
+#EXTINF:-1,SBT SP INTERIOR HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605217
+#EXTINF:-1,SBT TV Aratu (BA)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610146
+#EXTINF:-1,SBT TV CIDADE VERDE TERESINA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605219
+#EXTINF:-1,SBT TV DIFUSORA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605220
+#EXTINF:-1,SBT TV Guajará (PA)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610130
+#EXTINF:-1,SBT TV GUAJARÁ HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605221
+#EXTINF:-1,SBT TV JORNAL CARUARU HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605222
+#EXTINF:-1,SBT TV JORNAL RECIFE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605223
+#EXTINF:-1,SBT TV Paraense (PA)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610127
+#EXTINF:-1,SESC TV FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605288
+#EXTINF:-1,SESC TV HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605289
+#EXTINF:-1,SESC TV SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605290
+#EXTINF:-1,SHOPTIME HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605307
+#EXTINF:-1,SKY CINEMA 1
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606991
+#EXTINF:-1,SKY CINEMA 2
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606992
+#EXTINF:-1,SKY PLAY 1
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606993
+#EXTINF:-1,SKY PLAY 2
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606994
+#EXTINF:-1,SKY PLAY 3
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606995
+#EXTINF:-1,SKY PLAY 4
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606996
+#EXTINF:-1,SKY PLAY 7
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606997
+#EXTINF:-1,SMITHSONIAN FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604827
+#EXTINF:-1,SMITHSONIAN HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604826
+#EXTINF:-1,SMITHSONIAN SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604833
+#EXTINF:-1,SONY CHANNEL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623203
+#EXTINF:-1,SONY CHANNEL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622312
+#EXTINF:-1,SONY CHANNEL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622756
+#EXTINF:-1,SPACE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623205
+#EXTINF:-1,SPACE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737213
+#EXTINF:-1,SPACE SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622842
+#EXTINF:-1,SPORT TV 2 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603688
+#EXTINF:-1,SPORTS NFL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604813
+#EXTINF:-1,SPORTV  FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623137
+#EXTINF:-1,SPORTV  HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622376
+#EXTINF:-1,SPORTV  SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/628027
+#EXTINF:-1,SPORTV 2 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623138
+#EXTINF:-1,SPORTV 2 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622374
+#EXTINF:-1,SPORTV 2 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622844
+#EXTINF:-1,SPORTV 3 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623139
+#EXTINF:-1,SPORTV 3 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622375
+#EXTINF:-1,SPORTV 3 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622845
+#EXTINF:-1,STAR CHANNEL  FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370846
+#EXTINF:-1,STAR CHANNEL 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603685
+#EXTINF:-1,STAR CHANNEL FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493172
+#EXTINF:-1,STAR CHANNEL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370847
+#EXTINF:-1,STAR CHANNEL HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493173
+#EXTINF:-1,STAR CHANNEL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370848
+#EXTINF:-1,STAR LIFE FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737220
+#EXTINF:-1,STAR LIFE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737219
+#EXTINF:-1,STAR LIFE SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737218
+#EXTINF:-1,STAR+ 01 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738415
+#EXTINF:-1,STAR+ 02 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738416
+#EXTINF:-1,STAR+ 03 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738417
+#EXTINF:-1,STAR+ 04 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738418
+#EXTINF:-1,STAR+ 05 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738419
+#EXTINF:-1,STAR+ 06 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738420
+#EXTINF:-1,STAR+ 07 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738421
+#EXTINF:-1,STAR+ 08 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/738422
+#EXTINF:-1,STAR+ 09 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604814
+#EXTINF:-1,STAR+ 10 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604815
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623206
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622377
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622846
+#EXTINF:-1,Supa Strikas
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610543
+#EXTINF:-1,SYFY FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623216
+#EXTINF:-1,SYFY HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622378
+#EXTINF:-1,SYFY SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622847
+#EXTINF:-1,TBS FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623215
+#EXTINF:-1,TBS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622379
+#EXTINF:-1,TBS SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/739071
+#EXTINF:-1,TCM FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622433
+#EXTINF:-1,TCM HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737231
+#EXTINF:-1,TCM SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737230
+#EXTINF:-1,TELECINE ACTION FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623148
+#EXTINF:-1,TELECINE ACTION FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370843
+#EXTINF:-1,TELECINE ACTION HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622380
+#EXTINF:-1,TELECINE ACTION HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370840
+#EXTINF:-1,TELECINE ACTION SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622850
+#EXTINF:-1,TELECINE CULT 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603667
+#EXTINF:-1,TELECINE CULT FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623152
+#EXTINF:-1,TELECINE CULT FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370835
+#EXTINF:-1,TELECINE CULT HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622381
+#EXTINF:-1,TELECINE CULT HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370834
+#EXTINF:-1,TELECINE CULT SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622851
+#EXTINF:-1,TELECINE FUN FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623151
+#EXTINF:-1,TELECINE FUN FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493162
+#EXTINF:-1,TELECINE FUN HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622382
+#EXTINF:-1,TELECINE FUN HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493165
+#EXTINF:-1,TELECINE FUN SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622852
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603672
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623150
+#EXTINF:-1,TELECINE PIPOCA FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493157
+#EXTINF:-1,TELECINE PIPOCA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622383
+#EXTINF:-1,TELECINE PIPOCA HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493158
+#EXTINF:-1,TELECINE PIPOCA SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622853
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623147
+#EXTINF:-1,TELECINE PREMIUM FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370833
+#EXTINF:-1,TELECINE PREMIUM HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622384
+#EXTINF:-1,TELECINE PREMIUM HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1370832
+#EXTINF:-1,TELECINE PREMIUM SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622854
+#EXTINF:-1,TELECINE TOUCH 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603666
+#EXTINF:-1,TELECINE TOUCH FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623149
+#EXTINF:-1,TELECINE TOUCH FHD H264 LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493160
+#EXTINF:-1,TELECINE TOUCH HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622385
+#EXTINF:-1,TELECINE TOUCH HD LEGENDADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493159
+#EXTINF:-1,TELECINE TOUCH SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622855
+#EXTINF:-1,TELESUR HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605309
+#EXTINF:-1,TERRA VIVA FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605291
+#EXTINF:-1,TERRA VIVA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605292
+#EXTINF:-1,TERRA VIVA SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605293
+#EXTINF:-1,TESTE 001
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1598311
+#EXTINF:-1,Teste 002
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1601398
+#EXTINF:-1,The Simpsons1
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610527
+#EXTINF:-1,TLC 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603683
+#EXTINF:-1,TNT 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603691
+#EXTINF:-1,TNT FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623146
+#EXTINF:-1,TNT HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622387
+#EXTINF:-1,TNT SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622858
+#EXTINF:-1,TNT SERIES FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623208
+#EXTINF:-1,TNT SERIES HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622388
+#EXTINF:-1,TNT SERIES SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622859
+#EXTINF:-1,TNT SÉRIES 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603673
+#EXTINF:-1,TOONCAST FULLHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605204
+#EXTINF:-1,TOONCAST FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605202
+#EXTINF:-1,TOONCAST HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605203
+#EXTINF:-1,TRACE BRAZUCA FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605322
+#EXTINF:-1,TRACE BRAZUCA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605323
+#EXTINF:-1,TRACE URBAN FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605324
+#EXTINF:-1,TRACE URBAN HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605325
+#EXTINF:-1,TRUTV FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627517
+#EXTINF:-1,TRUTV HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627518
+#EXTINF:-1,TRUTV SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1493142
+#EXTINF:-1,TV BRASIL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605294
+#EXTINF:-1,TV BRASIL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605295
+#EXTINF:-1,TV BRASIL TVE RS HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605296
+#EXTINF:-1,TV CAMOCIM HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605297
+#EXTINF:-1,TV Cultura FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627367
+#EXTINF:-1,TV Cultura HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627368
+#EXTINF:-1,TV CULTURA RN - HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1571633
+#EXTINF:-1,TV CULTURA SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622867
+#EXTINF:-1,TV ESCOLA SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622888
+#EXTINF:-1,TV GAZETA FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605298
+#EXTINF:-1,TV JUSTICA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605299
+#EXTINF:-1,TV MUNDIAL UHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604258
+#EXTINF:-1,TV MUNDO MAIOR HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605300
+#EXTINF:-1,TV NOVO TEMPO HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604259
+#EXTINF:-1,TV NOVO TEMPO UHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1604260
+#EXTINF:-1,TV RA TIM BUM FULLHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605207
+#EXTINF:-1,TV RA TIM BUM FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605205
+#EXTINF:-1,TV RA TIM BUM HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605206
+#EXTINF:-1,TV Rá Tim Bum! FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627370
+#EXTINF:-1,TV Rá Tim Bum! HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627371
+#EXTINF:-1,TV Rá Tim Bum! SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627372
+#EXTINF:-1,TV TROPICAL RN - HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1571632
+#EXTINF:-1,TV TURFE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605301
+#EXTINF:-1,TVCI FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605302
+#EXTINF:-1,TVE BAHIA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605303
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623207
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622393
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627603
+#EXTINF:-1,UNIVERSAL TV 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603682
+#EXTINF:-1,UNIVERSO DC
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606998
+#EXTINF:-1,UNIVERSO MARVEL 1
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1606999
+#EXTINF:-1,UP CHANNEL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605304
+#EXTINF:-1,URBAN LIVE HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605337
+#EXTINF:-1,VH1 FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627578
+#EXTINF:-1,VH1 HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737437
+#EXTINF:-1,VH1 SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737436
+#EXTINF:-1,VIVA FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737439
+#EXTINF:-1,VIVA HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737438
+#EXTINF:-1,VIVA SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622879
+#EXTINF:-1,WARNER CHANNEL 4K
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1603692
+#EXTINF:-1,WARNER CHANNEL FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/623209
+#EXTINF:-1,WARNER CHANNEL HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622396
+#EXTINF:-1,WARNER CHANNEL SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/622880
+#EXTINF:-1,WOOHOO FHD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/737440
+#EXTINF:-1,WOOHOO HD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627524
+#EXTINF:-1,WOOHOO SD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/627525
+#EXTINF:-1,ZOOMOO FULLHD H265
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1605208
+#EXTINF:-1,Super Choque
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1610816
+#EXTINF:-1,aaaaaaaaaaaa
+http://fastuhd.tech:80/movie/98847cami6244/6244cami98847/1610817.mp4
+#EXTINF:-1,101 DÁLMATAS (Disney+)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607768
+#EXTINF:-1,24 HORAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608108
+#EXTINF:-1,24H COPA AFRICA 10
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1560322
+#EXTINF:-1,24H COPA FRANÇA 98
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1560323
+#EXTINF:-1,24H COPA RUSSIA 18
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1560325
+#EXTINF:-1,24H COPA USA 94
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1560326
+#EXTINF:-1,3 PALAVRINHAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607769
+#EXTINF:-1,A CASA DO MICKEY MOUSE
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607771
+#EXTINF:-1,A DESCOBERTA DAS BRUXAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608109
+#EXTINF:-1,A DIARISTA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608110
+#EXTINF:-1,A FEITICEIRA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608111
+#EXTINF:-1,A FORMIGA ATÔMICA (RETRO)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607772
+#EXTINF:-1,A GRANDE FAMÍLIA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608112
+#EXTINF:-1,A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607773
+#EXTINF:-1,A NOVA ESCOLA DO IMPERADOR
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607774
+#EXTINF:-1,A PANTERA COR-DE-ROSA ANTIGO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607775
+#EXTINF:-1,A PATROA E AS CRIANÇAS (RETRO)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608113
+#EXTINF:-1,A PEQUENA SEREIA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607776
+#EXTINF:-1,A PRAÇA E NOSSA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608114
+#EXTINF:-1,A ROCHA ENCANTADA DE VOLTA A CAVERNA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607777
+#EXTINF:-1,A TURMA DO DIDI
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608115
+#EXTINF:-1,A VILA PAULO GUSTAVO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608116
+#EXTINF:-1,AAAHH!!! REAL MONSTERS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607778
+#EXTINF:-1,ABBY HATCHER
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607779
+#EXTINF:-1,ACAMPAMENTO DE VERÃO SUMMER
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607780
+#EXTINF:-1,ADOLEPEIXES
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607781
+#EXTINF:-1,AGENTE CARTER
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608117
+#EXTINF:-1,ALADDIN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607782
+#EXTINF:-1,ALF - O É TEIMOSO (RETRO)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608118
+#EXTINF:-1,ALF O ETEIMOSO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608119
+#EXTINF:-1,ALIENÍGENAS DO PASSADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608120
+#EXTINF:-1,ALLIGATOR
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607783
+#EXTINF:-1,AMERICA DAD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607784
+#EXTINF:-1,ANDROMEDA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608121
+#EXTINF:-1,ANGRY BIRDS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607785
+#EXTINF:-1,ANIMANIACS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607786
+#EXTINF:-1,ANIMAZOO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607975
+#EXTINF:-1,APENAS UM SHOW
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607787
+#EXTINF:-1,ARMAZÉM 13
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608122
+#EXTINF:-1,ARQUIVO X
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608123
+#EXTINF:-1,AS AVENTURA DE SUPER MARIO BROS 3
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607788
+#EXTINF:-1,AS AVENTURAS DE JACKIE CHAN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607789
+#EXTINF:-1,AS MENINAS SUPER PODEROSAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607790
+#EXTINF:-1,AS MENINAS SUPER PODEROSAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607791
+#EXTINF:-1,AS MENINAS SUPER-PODEROSAS ( DESENHO/CARTOON NETWORK)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607792
+#EXTINF:-1,AS TARTARUGAS NINJA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607793
+#EXTINF:-1,ASTRO BOY
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607794
+#EXTINF:-1,AVATAR
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607795
+#EXTINF:-1,BABY LOONEY TUNES
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607796
+#EXTINF:-1,BATMAN DO FUTURO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607797
+#EXTINF:-1,BATTLESTAR GALACTICA (2004) (CULT/CBC)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608124
+#EXTINF:-1,BATWOMAN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608125
+#EXTINF:-1,BEN 10
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607798
+#EXTINF:-1,BENTO E TOTÓ
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607799
+#EXTINF:-1,BITA E OS ANIMAIS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607800
+#EXTINF:-1,BLACK ARROW
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607801
+#EXTINF:-1,BLACK SUMMER
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608126
+#EXTINF:-1,BOB ESPONJA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607802
+#EXTINF:-1,BOLOFOFOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607803
+#EXTINF:-1,BOOBA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607767
+#EXTINF:-1,BREAKING BAD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608127
+#EXTINF:-1,BRITANNIA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608128
+#EXTINF:-1,CALIFADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608129
+#EXTINF:-1,CARCEREIROS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608130
+#EXTINF:-1,CAVALO DE FOGO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607804
+#EXTINF:-1,CAVALO DE FOGO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607805
+#EXTINF:-1,CAVERNA DO DRAGAO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607806
+#EXTINF:-1,CAVERNA DO DRAGÃO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607807
+#EXTINF:-1,CHAPOLIN COLORADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608131
+#EXTINF:-1,CHAVES
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608132
+#EXTINF:-1,CHAVES 24HS (CULT/RETRO)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608133
+#EXTINF:-1,CHAVES DESENHO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607808
+#EXTINF:-1,CINE PIPOCA DESENHOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607809
+#EXTINF:-1,COLEÇÃO MAZZAROPI (RETRO)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608134
+#EXTINF:-1,COLONY - 2019 (NBC UNIVERSAL)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608135
+#EXTINF:-1,COMEDY CENTRAL (NACIONAL)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608136
+#EXTINF:-1,CONDOR
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608137
+#EXTINF:-1,CONTINUUM
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608138
+#EXTINF:-1,CORAGEM O CÃO COVARDE
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607810
+#EXTINF:-1,CORN E PEG
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607811
+#EXTINF:-1,CORRIDA MALUCA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607812
+#EXTINF:-1,CORRIDA MALUKA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607813
+#EXTINF:-1,COUKI JAR
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607814
+#EXTINF:-1,CSI INVESTIGAÇÃO CRIMINAL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608139
+#EXTINF:-1,DALMATAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607815
+#EXTINF:-1,DE FERIAS COM O EX S01
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608140
+#EXTINF:-1,DEMOLIDOR (NETFLIX/MARVEL)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608141
+#EXTINF:-1,DENIS O PIMENTINHA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607816
+#EXTINF:-1,DESENHO 01
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607817
+#EXTINF:-1,DESENHO 02
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607818
+#EXTINF:-1,DESENHO 03
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607819
+#EXTINF:-1,DESENHO 04
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607820
+#EXTINF:-1,DESENHO 05
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607821
+#EXTINF:-1,DESENHO 06
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607822
+#EXTINF:-1,DESENHO 07
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607823
+#EXTINF:-1,DESENHO 08
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607824
+#EXTINF:-1,DESENHO 09
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607825
+#EXTINF:-1,DESENHO 10
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607826
+#EXTINF:-1,DESENHO 11
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607827
+#EXTINF:-1,DESENHOS 12
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607828
+#EXTINF:-1,DESENHOS 13
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607829
+#EXTINF:-1,DESENHOS JAPAN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607830
+#EXTINF:-1,DESENHOS VARIADOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607831
+#EXTINF:-1,DESNHOS 14
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607832
+#EXTINF:-1,DESNHOS NETFLIX
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607833
+#EXTINF:-1,DICK VIGARISTA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607834
+#EXTINF:-1,DIGIMON
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607835
+#EXTINF:-1,DOCUMENTÁRIOS HISTORY
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608142
+#EXTINF:-1,DOIS HOMENS E MEIO (CBS)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608143
+#EXTINF:-1,DOUG
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607836
+#EXTINF:-1,DRAGON BALL SUPER
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607837
+#EXTINF:-1,DRAGON BALL Z
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607838
+#EXTINF:-1,DRAKE & JOSH
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608250
+#EXTINF:-1,ENCRENCA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608144
+#EXTINF:-1,EU A PATROA E AS CRIANÇAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608145
+#EXTINF:-1,FALLING SKIES (CULT)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608146
+#EXTINF:-1,FEAR THE WALKING DEAD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608147
+#EXTINF:-1,FRIENDS S10
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608148
+#EXTINF:-1,FRINGE
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608149
+#EXTINF:-1,FRONTIER
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608150
+#EXTINF:-1,GALINHA BABY
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607977
+#EXTINF:-1,GALINHA PINTADINHA MINI
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607976
+#EXTINF:-1,GAME OF THONES
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608151
+#EXTINF:-1,GASPARZINHO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607839
+#EXTINF:-1,GASPARZINHO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607840
+#EXTINF:-1,GENERATOR REX (DESENHO/CARTOON NETWORK)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607841
+#EXTINF:-1,GUARDA DO REI LEÃO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607842
+#EXTINF:-1,GUERREIROS MÍTICOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607843
+#EXTINF:-1,GUS - O PEQUENO CAVALEIRO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607844
+#EXTINF:-1,HE-MAN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607845
+#EXTINF:-1,HE-MAN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607846
+#EXTINF:-1,HE-MAN E OS MESTRES DO UNIVERSO - 2021
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607847
+#EXTINF:-1,HELIX
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608152
+#EXTINF:-1,Herdeiros da noite (Disney)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608153
+#EXTINF:-1,HEROIS HANNA-BARBERA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607848
+#EXTINF:-1,HOMEM ARANHA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607849
+#EXTINF:-1,HOMEM DE FERRO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607850
+#EXTINF:-1,HOMENS SÃO DE MARTE (NACIONAL)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608154
+#EXTINF:-1,HORA DA AVENTURA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607851
+#EXTINF:-1,HORA DO ROCK
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607852
+#EXTINF:-1,HULK
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608155
+#EXTINF:-1,HÉRCULES
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608156
+#EXTINF:-1,ICARLY (2008)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608157
+#EXTINF:-1,ICARLY S07
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608158
+#EXTINF:-1,ILHA DE FERRO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608159
+#EXTINF:-1,INCRÍVEL HULK
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607853
+#EXTINF:-1,INFANTIL (PT-PORTUGAL)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607854
+#EXTINF:-1,INVASION
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608160
+#EXTINF:-1,JACK RYAN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607855
+#EXTINF:-1,JASPION
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607856
+#EXTINF:-1,JIRAIYA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608161
+#EXTINF:-1,JONNY QUEST
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607857
+#EXTINF:-1,JONNY QUEST
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607858
+#EXTINF:-1,JOVEM WALLANDER
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608162
+#EXTINF:-1,JOVENS TITANS TEEN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607859
+#EXTINF:-1,JOVENS TITAS (DESENHO)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607860
+#EXTINF:-1,KENAN E KEL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608163
+#EXTINF:-1,KICK BUTTOWSKI - UM PROJETO DE DUBLÊ (DESENHO/DISNEY XD)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607861
+#EXTINF:-1,KICK BUTTOWSKY
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607862
+#EXTINF:-1,KINGDOM
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608164
+#EXTINF:-1,KRYPTON
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608165
+#EXTINF:-1,LA CASA DE PAPEL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608166
+#EXTINF:-1,LABORATÓRIO SUBMARINO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607863
+#EXTINF:-1,LANTERNA VERDE
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607864
+#EXTINF:-1,LARGADOS E PELADOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608167
+#EXTINF:-1,LIGA DA JUSTIÇA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607865
+#EXTINF:-1,LIGA DA JUSTIÇA JOVEM
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607866
+#EXTINF:-1,LILO E STITCH (DISNEY+)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607867
+#EXTINF:-1,LOONEY TUNES
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607868
+#EXTINF:-1,LUCAS - A ARANHA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607869
+#EXTINF:-1,LUCHA FEVER
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607870
+#EXTINF:-1,LUPIN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608168
+#EXTINF:-1,MADAGASCAR PEQUENOS SELVAGENS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607871
+#EXTINF:-1,MANDA-CHUVA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607872
+#EXTINF:-1,MANIFEST
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608169
+#EXTINF:-1,MARLON
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608170
+#EXTINF:-1,MEDABOTS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607873
+#EXTINF:-1,MEGAMAN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607874
+#EXTINF:-1,MEGAMAN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607875
+#EXTINF:-1,MIRACULOS (DESENHO)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607876
+#EXTINF:-1,MK ALINE BARROS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607877
+#EXTINF:-1,MORTAL KOMBAT
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607878
+#EXTINF:-1,MR. BEAN (RETRO)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608171
+#EXTINF:-1,MR.BEN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608172
+#EXTINF:-1,MUTANTE REX (2010)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607879
+#EXTINF:-1,NARUTO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607880
+#EXTINF:-1,NARUTO SHIPPUDEN DUB
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607881
+#EXTINF:-1,NOITE ADENTRO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608173
+#EXTINF:-1,NOSSA TURMA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607882
+#EXTINF:-1,O ELO PERDIDO (RETRO)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607883
+#EXTINF:-1,O FANTÁSTICO MUNDO DE BOBBY
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607884
+#EXTINF:-1,O INSPETOR
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607885
+#EXTINF:-1,O JUSTICEIRO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608174
+#EXTINF:-1,O MASKARA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607886
+#EXTINF:-1,O MASKARA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607887
+#EXTINF:-1,O MUNDO DE GREG
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607888
+#EXTINF:-1,O PIMENTINHA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607889
+#EXTINF:-1,O PRÍNCIPE DRAGÃO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607890
+#EXTINF:-1,O ÚLTIMO GUARDIÃO - 2019
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608175
+#EXTINF:-1,O ÚLTIMO REINO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608176
+#EXTINF:-1,ONE PIECE - EAST BLUE ( ANIMAÇÃO/FUJI TV)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607891
+#EXTINF:-1,OS CAVALEIROS DO ZODÍACO (AUDIO ORIGINAL)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607893
+#EXTINF:-1,OS FLINTSTONES
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607894
+#EXTINF:-1,OS PADRINHO MAGICOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607895
+#EXTINF:-1,OS PADRINHOS MAGICOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607896
+#EXTINF:-1,OS PINGUINS DE MADAGASCAR
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607897
+#EXTINF:-1,OS PINGUIS DE MADAGASCAR
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607898
+#EXTINF:-1,OS SIMPSONS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607899
+#EXTINF:-1,OS VINGADORES
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607900
+#EXTINF:-1,OS VISITANTES
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608177
+#EXTINF:-1,OS VISITANTES (BEFOREIGNERS)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608178
+#EXTINF:-1,OUTLANDER (NETFLIX)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608179
+#EXTINF:-1,OZARK
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608180
+#EXTINF:-1,PAGODE DA OFENSA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608181
+#EXTINF:-1,PANICO TROLL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608182
+#EXTINF:-1,PANTERA COR DE ROSA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607902
+#EXTINF:-1,PAPA-LÉGUAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607903
+#EXTINF:-1,PASTOR CLAÚDIO DUARTE
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608183
+#EXTINF:-1,PATETA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607904
+#EXTINF:-1,PATETA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607905
+#EXTINF:-1,PATRULHA CANINA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607906
+#EXTINF:-1,PEAKY BLINDER
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608184
+#EXTINF:-1,Pedro pelo Mundo
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608185
+#EXTINF:-1,PEGADINHAS DO SILVIO SANTOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608186
+#EXTINF:-1,PEGADINHAS JALALS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608187
+#EXTINF:-1,PEGADINHAS JOAO KLEBER
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608188
+#EXTINF:-1,PEIXINHOS MÁGICOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607907
+#EXTINF:-1,PEPE LEGAL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607908
+#EXTINF:-1,PEPE LEGAL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607909
+#EXTINF:-1,PEPPA PIG
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607910
+#EXTINF:-1,PERDIDO NAS ESTRELAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607911
+#EXTINF:-1,PERDIDOS NO ESPAÇO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608189
+#EXTINF:-1,PERNALONGA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607912
+#EXTINF:-1,PERSON OF INTEREST - 2011 (AMAZON PRIME)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608190
+#EXTINF:-1,PHINEAS E FERB
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607913
+#EXTINF:-1,PICA PAU
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607914
+#EXTINF:-1,PINK-E-CEREBRO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607915
+#EXTINF:-1,POKEMON
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607916
+#EXTINF:-1,POLICA 24HS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608191
+#EXTINF:-1,POPEYE O MARINHEIRO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607917
+#EXTINF:-1,PORTAS DOS FUNDOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608192
+#EXTINF:-1,POWER RANGERS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607918
+#EXTINF:-1,PUNHO DE FERRO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608193
+#EXTINF:-1,QUANTICO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608194
+#EXTINF:-1,RAINHA DO SUL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608195
+#EXTINF:-1,REFUGIO MENTAL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608196
+#EXTINF:-1,REI LEAO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607919
+#EXTINF:-1,RESTAURADORES  DE RUST VALLEY
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608197
+#EXTINF:-1,RIVERDALE (CW)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608198
+#EXTINF:-1,ROMA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608199
+#EXTINF:-1,SABADO ANIMADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607920
+#EXTINF:-1,SAI DE BAIXO S05
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608200
+#EXTINF:-1,SCOOBY DOO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607921
+#EXTINF:-1,SCOOBY DOO KIDS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607922
+#EXTINF:-1,SCOOBY-DOO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607923
+#EXTINF:-1,SCORPION  - 2016 (CBS)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608201
+#EXTINF:-1,SEAL TEAM
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608202
+#EXTINF:-1,SEE (APPLE TV)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608203
+#EXTINF:-1,SERIE NETFLIX²
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608204
+#EXTINF:-1,SERIE NETFLIX³
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608205
+#EXTINF:-1,SERIE NETFLIX¹
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608206
+#EXTINF:-1,SERIES OURO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608207
+#EXTINF:-1,SHARK TANK BRASIL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608208
+#EXTINF:-1,SHE-RA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607924
+#EXTINF:-1,SILICON VALLEY (NERD)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608209
+#EXTINF:-1,SIMBA O REI LEÃO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607925
+#EXTINF:-1,SITIO DO PICA PAU AMARELO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608210
+#EXTINF:-1,SITIO DO PICAPAU AMARELO KIDS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607926
+#EXTINF:-1,SMALLVILLE
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608211
+#EXTINF:-1,SNOWPIERCER
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608212
+#EXTINF:-1,SOBRENATURAL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608213
+#EXTINF:-1,SOBREVIVENTE DESIGNADO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608214
+#EXTINF:-1,SONS PARA RELAXAR E DORMIR
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608215
+#EXTINF:-1,SOUTH PARK
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607927
+#EXTINF:-1,SPARTACUS (Starz)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608216
+#EXTINF:-1,SPIDER MAN - MARVEL (DESENHO)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607928
+#EXTINF:-1,STAR TREK (ORIGINAL)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608217
+#EXTINF:-1,STAR TREK DISCOVERY
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608218
+#EXTINF:-1,STARGATE ATLANTIS - 2004
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608219
+#EXTINF:-1,SUPER CHOQUE
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607929
+#EXTINF:-1,SUPER MARIO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607930
+#EXTINF:-1,SUPERMAN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607931
+#EXTINF:-1,SUPERMAN & LOIS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608220
+#EXTINF:-1,SUPERNATURAL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608221
+#EXTINF:-1,SUPERSHOK
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607932
+#EXTINF:-1,SWAT
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608222
+#EXTINF:-1,SÍTIO DO PICAPAU AMARELO (Globo)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607933
+#EXTINF:-1,TARTARUGAS NINJAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607934
+#EXTINF:-1,TARTARUGAS NINJAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607935
+#EXTINF:-1,TARZAN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607936
+#EXTINF:-1,TARZAN FILMATION
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607937
+#EXTINF:-1,TASMANIA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607938
+#EXTINF:-1,TAZ-MANIA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607939
+#EXTINF:-1,TAZMANIA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607941
+#EXTINF:-1,TESTE DE FIDELIDADE
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608223
+#EXTINF:-1,THE 100
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608224
+#EXTINF:-1,THE BIG BANG  THEORY
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608225
+#EXTINF:-1,THE BLACKLIST
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608226
+#EXTINF:-1,THE GET ALONG GANG
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607942
+#EXTINF:-1,THE LAST SHIP - 2014 (TNT)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608227
+#EXTINF:-1,THE MAN IN THE HIGH CASTLE (PRIME VIDEO)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608228
+#EXTINF:-1,THE ORIGINALS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608229
+#EXTINF:-1,THE PACIFIC
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608230
+#EXTINF:-1,THE WALKING DEAD
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608231
+#EXTINF:-1,THOMAS E SEUS AMIGOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607943
+#EXTINF:-1,THUNDERCATS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607944
+#EXTINF:-1,THUNDERCATS²
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607945
+#EXTINF:-1,THUNDERCATS³
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607946
+#EXTINF:-1,THUNDERCATS¹
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607947
+#EXTINF:-1,TIMAO E PUMBA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607948
+#EXTINF:-1,TIMAO E PUMBA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607949
+#EXTINF:-1,TIME ZENKO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607950
+#EXTINF:-1,TIMELESS (NBC)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608232
+#EXTINF:-1,TINKERBELL
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607951
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608233
+#EXTINF:-1,TOM E JERRY
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607952
+#EXTINF:-1,TOM E JERRY
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607953
+#EXTINF:-1,TOP BOY
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608234
+#EXTINF:-1,TOURADAS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608235
+#EXTINF:-1,TRAVELERS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608236
+#EXTINF:-1,TRES ESPIAS DEMAIS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607954
+#EXTINF:-1,TUNEL DO TEMPO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608237
+#EXTINF:-1,TURMA DA MONICA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607957
+#EXTINF:-1,TURMA DO CRISTAOZINHO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607958
+#EXTINF:-1,TUTUBARAO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607959
+#EXTINF:-1,TÁ NO AR: A TV DA TV
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608238
+#EXTINF:-1,ULTRAMAN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607960
+#EXTINF:-1,UNDER THE DOME (CBS)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608239
+#EXTINF:-1,UNIVERSO DC (2013 A 2021)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608240
+#EXTINF:-1,UNIVERSO MARVEL (2011 A 2021)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608241
+#EXTINF:-1,URSINHO PUFF
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607961
+#EXTINF:-1,URSINHOS CARINHOSOS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607962
+#EXTINF:-1,URSINHOS CARINHOSOS 2007 (RETRO/CBS/DISNEY JR/SIC)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607963
+#EXTINF:-1,VAGABOND
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608242
+#EXTINF:-1,VIKINGS - 2013 (HISTORY)
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608243
+#EXTINF:-1,WALLY GATOR
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607965
+#EXTINF:-1,WAR OF THE WORLDS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608244
+#EXTINF:-1,WARRIORS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608245
+#EXTINF:-1,WEEBOOM
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607966
+#EXTINF:-1,X-MEN
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607969
+#EXTINF:-1,XENA
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608246
+#EXTINF:-1,YABBA DABBA DOO DINOSSAUROS
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607970
+#EXTINF:-1,YELLOWSTONE
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608247
+#EXTINF:-1,YU-GI-OH
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607971
+#EXTINF:-1,YU-YU-HAKUSHO
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607972
+#EXTINF:-1,Z NATION
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608248
+#EXTINF:-1,ZE BUSCAPE
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607973
+#EXTINF:-1,ZORRA TORAL 2015
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1608249
+#EXTINF:-1,ZÉ BUSCAPÉ
+http://fastuhd.tech:80/98847cami6244/6244cami98847/1607974
